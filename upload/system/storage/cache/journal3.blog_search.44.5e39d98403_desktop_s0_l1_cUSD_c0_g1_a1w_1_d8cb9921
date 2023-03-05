@@ -1,0 +1,31 @@
+<?php $val = array (
+  'css' => '.module-blog_search-44 .search-btn{height:calc(100% - 6px)}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'title' => '',
+    'placeholder' => 'Blog Search',
+    'status' => true,
+    'id' => 'blog_search-6404d20f9594e',
+    'module_id' => 44,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-blog_search',
+      2 => 'module-blog_search-44',
+    ),
+    'search' => NULL,
+    'url' => 'http://ukclothes/index.php?route=journal3/blog&amp;journal_blog_search=',
+    'items' => 
+    array (
+    ),
+  ),
+);

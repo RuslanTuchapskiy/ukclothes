@@ -1,0 +1,207 @@
+<?php $val = array (
+  'data' => 
+  array (
+    35 => 
+    array (
+      'php' => 
+      array (
+        'type' => 'custom',
+        'position' => 'top',
+        'positionTablet' => '',
+        'positionPhone' => '',
+        'blockType' => 'grid',
+      ),
+      'js' => 
+      array (
+      ),
+      'fonts' => 
+      array (
+      ),
+      'css' => '.product-blocks-35{order:-10}#content .product-blocks-35{margin-bottom:25px}',
+    ),
+    244 => 
+    array (
+      'php' => 
+      array (
+        'type' => 'custom',
+        'position' => 'image',
+        'positionTablet' => '',
+        'positionPhone' => 'bottom',
+        'blockType' => 'grid',
+      ),
+      'js' => 
+      array (
+      ),
+      'fonts' => 
+      array (
+      ),
+      'css' => '.product-blocks-244{order:1}#content .product-blocks-244{margin-top:30px}',
+    ),
+    245 => 
+    array (
+      'php' => 
+      array (
+        'type' => 'custom',
+        'position' => 'default',
+        'positionTablet' => '',
+        'positionPhone' => '',
+        'blockType' => 'grid',
+      ),
+      'js' => 
+      array (
+      ),
+      'fonts' => 
+      array (
+      ),
+      'css' => NULL,
+    ),
+    230 => 
+    array (
+      'php' => 
+      array (
+        'type' => 'custom',
+        'position' => 'top',
+        'positionTablet' => '',
+        'positionPhone' => '',
+        'blockType' => 'grid',
+      ),
+      'js' => 
+      array (
+      ),
+      'fonts' => 
+      array (
+      ),
+      'css' => '.product-blocks-230{order:-9}#content .product-blocks-230{margin-bottom:25px}',
+    ),
+  ),
+  'all' => 
+  array (
+    244 => 244,
+    245 => 245,
+  ),
+  'special' => 
+  array (
+  ),
+  'outofstock' => 
+  array (
+  ),
+  'custom' => 
+  array (
+    360 => 
+    array (
+      230 => 230,
+    ),
+    44 => 
+    array (
+      230 => 230,
+    ),
+    45 => 
+    array (
+      230 => 230,
+    ),
+    358 => 
+    array (
+      230 => 230,
+    ),
+    282 => 
+    array (
+      230 => 230,
+    ),
+    370 => 
+    array (
+      230 => 230,
+    ),
+    259 => 
+    array (
+      230 => 230,
+    ),
+    269 => 
+    array (
+      230 => 230,
+    ),
+    363 => 
+    array (
+      230 => 230,
+    ),
+    361 => 
+    array (
+      230 => 230,
+    ),
+    278 => 
+    array (
+      230 => 230,
+    ),
+    260 => 
+    array (
+      230 => 230,
+    ),
+    359 => 
+    array (
+      230 => 230,
+    ),
+    369 => 
+    array (
+      230 => 230,
+    ),
+    290 => 
+    array (
+      230 => 230,
+    ),
+    262 => 
+    array (
+      230 => 230,
+    ),
+    366 => 
+    array (
+      230 => 230,
+    ),
+    272 => 
+    array (
+      230 => 230,
+    ),
+    261 => 
+    array (
+      230 => 230,
+    ),
+    264 => 
+    array (
+      230 => 230,
+    ),
+    367 => 
+    array (
+      230 => 230,
+    ),
+    364 => 
+    array (
+      230 => 230,
+    ),
+    368 => 
+    array (
+      230 => 230,
+    ),
+    292 => 
+    array (
+      230 => 230,
+    ),
+    309 => 
+    array (
+      230 => 230,
+    ),
+    315 => 
+    array (
+      230 => 230,
+    ),
+    329 => 
+    array (
+      230 => 230,
+    ),
+    341 => 
+    array (
+      230 => 230,
+    ),
+    333 => 
+    array (
+      230 => 230,
+    ),
+  ),
+);

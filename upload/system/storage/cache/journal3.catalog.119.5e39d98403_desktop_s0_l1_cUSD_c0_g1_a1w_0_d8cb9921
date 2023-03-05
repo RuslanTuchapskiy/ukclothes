@@ -1,0 +1,381 @@
+<?php $val = array (
+  'css' => '.module-catalog-119 .module-item.swiper-slide{margin-right:0px;width:calc((100% - 2 * 0px) / 3 - 0.01px)}.module-catalog-119 .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 3 - 0.01px)}.one-column #content .module-catalog-119 .module-item.swiper-slide{margin-right:0px;width:calc((100% - 3 * 0px) / 4 - 0.01px)}.one-column #content .module-catalog-119 .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 4 - 0.01px)}.two-column #content .module-catalog-119 .module-item.swiper-slide{margin-right:0px;width:calc((100% - 2 * 0px) / 3 - 0.01px)}.two-column #content .module-catalog-119 .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 3 - 0.01px)}.side-column .module-catalog-119 .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.side-column .module-catalog-119 .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.module-catalog-119  .item-content{padding:8px}.module-catalog-119  .catalog-title{padding-bottom:5px;border-width:0;border-bottom-width:1px;border-style:solid;border-color:rgba(223, 231, 247, 1)}.module-catalog-119 .catalog-title{margin-bottom:10px;display:flex;font-family:\'Roboto\';font-weight:700;color:rgba(56, 68, 79, 1);width:100%;margin-left:0;margin-right:auto;justify-content:flex-start;white-space:normal;overflow:visible;text-overflow:initial}.module-catalog-119
+.subitems{align-items:flex-start}.module-catalog-119 .subitem > a
+span{font-size:14px}.module-catalog-119 .subitem.view-more a
+span{font-size:14px;color:rgba(69, 82, 94, 1);text-decoration:underline}.module-catalog-119 .subitem.view-more a:hover
+span{color:rgba(0, 138, 221, 1)}.module-catalog-119 .subitem.view-more
+a{margin-left:5px}.module-catalog-119 .subitem.view-more a::before{content:none !important}.module-catalog-119 .subitem>a{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;padding-bottom:6px}.module-catalog-119 .subitem>a::before{content:\'\\e409\' !important;font-family:icomoon !important}.module-catalog-119 .catalog-image{margin-right:5px}.module-catalog-119 .item-assets{flex-direction:row}.module-catalog-119 .item-assets>a{max-width:40%;order:0}.module-catalog-119 .item-assets
+.subitems{width:60%}.module-catalog-119 .item-assets .catalog-image{display:block}@media (max-width: 760px){.module-catalog-119 .subitem.view-more
+a{margin-top:10px;margin-left:10px}.module-catalog-119 .subitem>a{padding-bottom:14px}.module-catalog-119 .catalog-image{margin-right:0px;margin-bottom:15px}.module-catalog-119 .item-assets{flex-direction:column}.module-catalog-119 .item-assets>a{max-width:100%;order:0}.module-catalog-119 .item-assets
+.subitems{width:100%}.module-catalog-119 .item-assets .catalog-image{display:block}}@media (max-width: 470px){.module-catalog-119 .module-item.swiper-slide{margin-right:0px;width:calc((100% - 1 * 0px) / 2 - 0.01px)}.module-catalog-119 .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 2 - 0.01px)}}',
+  'fonts' => 
+  array (
+    'fonts' => 
+    array (
+      'Roboto' => 
+      array (
+        700 => '700',
+      ),
+    ),
+    'subsets' => 
+    array (
+      'latin-ext' => 'latin-ext',
+    ),
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'title' => '',
+    'images' => false,
+    'imageDimensions' => 
+    array (
+      'width' => 150,
+      'height' => 150,
+      'resize' => 'fill',
+    ),
+    'itemsPerRow' => 
+    array (
+      'c0' => 
+      array (
+        0 => 
+        array (
+          'items' => 3,
+          'spacing' => 0,
+        ),
+        470 => 
+        array (
+          'spacing' => 0,
+          'items' => 2,
+        ),
+      ),
+      'c1' => 
+      array (
+        0 => 
+        array (
+          'items' => 4,
+          'spacing' => 0,
+        ),
+      ),
+      'c2' => 
+      array (
+        0 => 
+        array (
+          'items' => 3,
+          'spacing' => 0,
+        ),
+      ),
+      'sc' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+    ),
+    'carousel' => false,
+    'viewMoreText' => 'View More',
+    'status' => true,
+    'id' => 'catalog-6404d22a21ab0',
+    'module_id' => 119,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-catalog',
+      2 => 'module-catalog-119',
+      'carousel-mode' => false,
+      'image-on-hover' => true,
+    ),
+    'carouselOptions' => 
+    array (
+      'speed' => 0,
+      'autoplay' => false,
+      'pauseOnHover' => false,
+      'loop' => false,
+    ),
+    'items' => 
+    array (
+      1 => 
+      array (
+        'limit' => '4',
+        'id' => '119-1',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-1',
+          'swiper-slide' => false,
+        ),
+        'items' => 
+        array (
+          0 => 
+          array (
+            'name' => 'Accesories',
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=109_59_105',
+            'image' => 'http://ukclothes/image/cache/placeholder-150x150.png',
+            'image2x' => 'http://ukclothes/image/cache/placeholder-300x300.png',
+          ),
+          1 => 
+          array (
+            'name' => 'Dresses',
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=109_59_60',
+            'image' => 'http://ukclothes/image/cache/placeholder-150x150.png',
+            'image2x' => 'http://ukclothes/image/cache/placeholder-300x300.png',
+          ),
+          2 => 
+          array (
+            'name' => 'Pants',
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=109_59_113',
+            'image' => 'http://ukclothes/image/cache/placeholder-150x150.png',
+            'image2x' => 'http://ukclothes/image/cache/placeholder-300x300.png',
+          ),
+          3 => 
+          array (
+            'name' => 'T-Shirts',
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=109_59_112',
+            'image' => 'http://ukclothes/image/cache/placeholder-150x150.png',
+            'image2x' => 'http://ukclothes/image/cache/placeholder-300x300.png',
+          ),
+        ),
+        'image' => '',
+        'name' => 'Fashion',
+        'href' => 'http://ukclothes/index.php?route=product/category&amp;path=109_59',
+        'total' => '5',
+      ),
+      2 => 
+      array (
+        'limit' => '4',
+        'id' => '119-2',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-2',
+          'swiper-slide' => false,
+        ),
+        'items' => 
+        array (
+          0 => 
+          array (
+            'name' => 'Desktops',
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=109_69_20',
+            'image' => 'http://ukclothes/image/cache/catalog/demo/compaq_presario-150x150h.jpg',
+            'image2x' => 'http://ukclothes/image/cache/catalog/demo/compaq_presario-300x300h.jpg',
+          ),
+          1 => 
+          array (
+            'name' => 'Laptops &amp; Notebooks',
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=109_69_18',
+            'image' => 'http://ukclothes/image/cache/catalog/demo/hp_2-150x150h.jpg',
+            'image2x' => 'http://ukclothes/image/cache/catalog/demo/hp_2-300x300h.jpg',
+          ),
+          2 => 
+          array (
+            'name' => 'Components',
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=109_69_25',
+            'image' => 'http://ukclothes/image/cache/placeholder-150x150.png',
+            'image2x' => 'http://ukclothes/image/cache/placeholder-300x300.png',
+          ),
+          3 => 
+          array (
+            'name' => 'Phones &amp; PDAs',
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=109_69_24',
+            'image' => 'http://ukclothes/image/cache/catalog/demo/iphone_2-150x150h.jpg',
+            'image2x' => 'http://ukclothes/image/cache/catalog/demo/iphone_2-300x300h.jpg',
+          ),
+        ),
+        'image' => '',
+        'name' => 'Electronics',
+        'href' => 'http://ukclothes/index.php?route=product/category&amp;path=109_69',
+        'total' => '6',
+      ),
+      3 => 
+      array (
+        'limit' => '4',
+        'id' => '119-3',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-3',
+          'swiper-slide' => false,
+        ),
+        'items' => 
+        array (
+          0 => 
+          array (
+            'name' => 'Backpacks',
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=109_107_165',
+            'image' => 'http://ukclothes/image/cache/placeholder-150x150.png',
+            'image2x' => 'http://ukclothes/image/cache/placeholder-300x300.png',
+          ),
+          1 => 
+          array (
+            'name' => 'Clutches',
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=109_107_120',
+            'image' => 'http://ukclothes/image/cache/placeholder-150x150.png',
+            'image2x' => 'http://ukclothes/image/cache/placeholder-300x300.png',
+          ),
+          2 => 
+          array (
+            'name' => 'Formal',
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=109_107_118',
+            'image' => 'http://ukclothes/image/cache/placeholder-150x150.png',
+            'image2x' => 'http://ukclothes/image/cache/placeholder-300x300.png',
+          ),
+          3 => 
+          array (
+            'name' => 'Purses',
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=109_107_121',
+            'image' => 'http://ukclothes/image/cache/placeholder-150x150.png',
+            'image2x' => 'http://ukclothes/image/cache/placeholder-300x300.png',
+          ),
+        ),
+        'image' => '',
+        'name' => 'Bags',
+        'href' => 'http://ukclothes/index.php?route=product/category&amp;path=109_107',
+        'total' => '5',
+      ),
+      4 => 
+      array (
+        'limit' => '4',
+        'id' => '119-4',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-4',
+          'swiper-slide' => false,
+        ),
+        'items' => 
+        array (
+          0 => 
+          array (
+            'name' => 'Accessories',
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=109_125',
+            'image' => 'http://ukclothes/image/cache/placeholder-150x150.png',
+            'image2x' => 'http://ukclothes/image/cache/placeholder-300x300.png',
+          ),
+          1 => 
+          array (
+            'name' => 'Body',
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=109_164',
+            'image' => 'http://ukclothes/image/cache/placeholder-150x150.png',
+            'image2x' => 'http://ukclothes/image/cache/placeholder-300x300.png',
+          ),
+          2 => 
+          array (
+            'name' => 'Lipstick',
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=109_123',
+            'image' => 'http://ukclothes/image/cache/placeholder-150x150.png',
+            'image2x' => 'http://ukclothes/image/cache/placeholder-300x300.png',
+          ),
+          3 => 
+          array (
+            'name' => 'Makeup',
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=109_216',
+            'image' => 'http://ukclothes/image/cache/placeholder-150x150.png',
+            'image2x' => 'http://ukclothes/image/cache/placeholder-300x300.png',
+          ),
+        ),
+        'image' => '',
+        'name' => 'Health &amp; Beauty',
+        'href' => 'http://ukclothes/index.php?route=product/category&amp;path=109',
+        'total' => '6',
+      ),
+      5 => 
+      array (
+        'limit' => '4',
+        'id' => '119-5',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-5',
+          'swiper-slide' => false,
+        ),
+        'items' => 
+        array (
+          0 => 
+          array (
+            'name' => 'Flats',
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=109_111_133',
+            'image' => 'http://ukclothes/image/cache/placeholder-150x150.png',
+            'image2x' => 'http://ukclothes/image/cache/placeholder-300x300.png',
+          ),
+          1 => 
+          array (
+            'name' => 'Flip Flops',
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=109_111_215',
+            'image' => 'http://ukclothes/image/cache/placeholder-150x150.png',
+            'image2x' => 'http://ukclothes/image/cache/placeholder-300x300.png',
+          ),
+          2 => 
+          array (
+            'name' => 'Heels',
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=109_111_132',
+            'image' => 'http://ukclothes/image/cache/placeholder-150x150.png',
+            'image2x' => 'http://ukclothes/image/cache/placeholder-300x300.png',
+          ),
+          3 => 
+          array (
+            'name' => 'Running',
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=109_111_134',
+            'image' => 'http://ukclothes/image/cache/placeholder-150x150.png',
+            'image2x' => 'http://ukclothes/image/cache/placeholder-300x300.png',
+          ),
+        ),
+        'image' => '',
+        'name' => 'Footwear',
+        'href' => 'http://ukclothes/index.php?route=product/category&amp;path=109_111',
+        'total' => '6',
+      ),
+      6 => 
+      array (
+        'limit' => '4',
+        'id' => '119-6',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-6',
+          'swiper-slide' => false,
+        ),
+        'items' => 
+        array (
+          0 => 
+          array (
+            'name' => 'Breakfast',
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=109_155_156',
+            'image' => 'http://ukclothes/image/cache/placeholder-150x150.png',
+            'image2x' => 'http://ukclothes/image/cache/placeholder-300x300.png',
+          ),
+          1 => 
+          array (
+            'name' => 'Dessert',
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=109_155_157',
+            'image' => 'http://ukclothes/image/cache/placeholder-150x150.png',
+            'image2x' => 'http://ukclothes/image/cache/placeholder-300x300.png',
+          ),
+          2 => 
+          array (
+            'name' => 'Grill',
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=109_155_158',
+            'image' => 'http://ukclothes/image/cache/placeholder-150x150.png',
+            'image2x' => 'http://ukclothes/image/cache/placeholder-300x300.png',
+          ),
+          3 => 
+          array (
+            'name' => 'Pasta',
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=109_155_159',
+            'image' => 'http://ukclothes/image/cache/placeholder-150x150.png',
+            'image2x' => 'http://ukclothes/image/cache/placeholder-300x300.png',
+          ),
+        ),
+        'image' => '',
+        'name' => 'Food',
+        'href' => 'http://ukclothes/index.php?route=product/category&amp;path=109_155',
+        'total' => '7',
+      ),
+    ),
+  ),
+);

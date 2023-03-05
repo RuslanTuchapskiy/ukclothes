@@ -1,0 +1,79 @@
+<?php $val = array (
+  'css' => '.module-blog_tags-41 .tags
+a{flex-grow:0;text-align:initial}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'title' => 'Filter by Tags',
+    'status' => true,
+    'id' => 'blog_tags-6404d2150b0ec',
+    'module_id' => 41,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-blog_tags',
+      2 => 'module-blog_tags-41',
+    ),
+    'items' => 
+    array (
+      0 => 
+      array (
+        'name' => 'cool',
+        'href' => 'http://ukclothes/index.php?route=journal3/blog&amp;journal_blog_tag=cool',
+      ),
+      1 => 
+      array (
+        'name' => 'modern',
+        'href' => 'http://ukclothes/index.php?route=journal3/blog&amp;journal_blog_tag=modern',
+      ),
+      2 => 
+      array (
+        'name' => 'smart',
+        'href' => 'http://ukclothes/index.php?route=journal3/blog&amp;journal_blog_tag=smart',
+      ),
+      3 => 
+      array (
+        'name' => 'sweet',
+        'href' => 'http://ukclothes/index.php?route=journal3/blog&amp;journal_blog_tag=sweet',
+      ),
+      4 => 
+      array (
+        'name' => 'travel',
+        'href' => 'http://ukclothes/index.php?route=journal3/blog&amp;journal_blog_tag=travel',
+      ),
+      5 => 
+      array (
+        'name' => 'shop',
+        'href' => 'http://ukclothes/index.php?route=journal3/blog&amp;journal_blog_tag=shop',
+      ),
+      6 => 
+      array (
+        'name' => 'photography',
+        'href' => 'http://ukclothes/index.php?route=journal3/blog&amp;journal_blog_tag=photography',
+      ),
+      7 => 
+      array (
+        'name' => 'bag',
+        'href' => 'http://ukclothes/index.php?route=journal3/blog&amp;journal_blog_tag=bag',
+      ),
+      8 => 
+      array (
+        'name' => 'man',
+        'href' => 'http://ukclothes/index.php?route=journal3/blog&amp;journal_blog_tag=man',
+      ),
+      9 => 
+      array (
+        'name' => 'camera',
+        'href' => 'http://ukclothes/index.php?route=journal3/blog&amp;journal_blog_tag=camera',
+      ),
+    ),
+  ),
+);

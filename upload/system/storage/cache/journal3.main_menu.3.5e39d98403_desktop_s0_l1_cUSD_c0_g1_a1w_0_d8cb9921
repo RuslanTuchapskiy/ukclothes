@@ -1,0 +1,2167 @@
+<?php $val = array (
+  'css' => '.desktop-main-menu-wrapper .menu-fullwidth>.j-dropdown{width:100vw;left:50%;margin-left:-50vw}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-1 .mega-menu-content{width:500px;position:relative;left:0;transform:none}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-1>.dropdown-menu::before{left:0;transform:none}.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-1:not(.mega-fullwidth)>.dropdown-menu::before{display:block;margin-top:-10px}.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-1.multi-level .dropdown-menu ul li .dropdown-menu{left:100%}.main-menu-3 > .j-menu li.main-menu-item-1>a>.menu-label{font-family:Helvetica,Arial,sans-serif;font-weight:400;color:rgba(255, 255, 255, 1);text-transform:none;background:rgba(46, 175, 35, 1);border-radius:2px;padding:1px;padding-right:4px;padding-left:4px;margin-right:calc(0px - (-10px));margin-top:12px}@media (max-width: 1024px){.main-menu-3 > .j-menu li.main-menu-item-1>a>.menu-label{margin-right:calc(0px - (0px))}}.main-menu-3 .main-menu-item-1.mega-menu .grid-row-1::before{display:block;left:50%;width:100vw}.main-menu-3 .main-menu-item-1.mega-menu .grid-row-1 .grid-col-1{width:80%;padding:10px;padding-left:0px}.main-menu-3 .main-menu-item-1.mega-menu .grid-row-1 .grid-col-1 .grid-items{justify-content:flex-start}@media (max-width: 1340px){.main-menu-3 .main-menu-item-1.mega-menu .grid-row-1 .grid-col-1{padding-left:20px}}@media (max-width: 1024px){.main-menu-3 .main-menu-item-1.mega-menu .grid-row-1 .grid-col-1{padding-left:10px}}@media (max-width: 760px){.main-menu-3 .main-menu-item-1.mega-menu .grid-row-1 .grid-col-1{width:100%}}.main-menu-3 .main-menu-item-1.mega-menu .grid-row-1 .grid-col-2{width:20%;border-width:0;border-left-width:1px;border-style:solid;border-color:rgba(221, 221, 221, 1);padding:20px}.main-menu-3 .main-menu-item-1.mega-menu .grid-row-1 .grid-col-2 .grid-items{justify-content:flex-start}@media (max-width: 760px){.main-menu-3 .main-menu-item-1.mega-menu .grid-row-1 .grid-col-2{width:100%;padding:0px}}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-2 .mega-menu-content{width:500px;position:relative;left:0;transform:none}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-2>.dropdown-menu::before{left:0;transform:none}.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-2:not(.mega-fullwidth)>.dropdown-menu::before{display:none;margin-top:-10px}.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-2.multi-level .dropdown-menu ul li .dropdown-menu{left:100%}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-3 .mega-menu-content{width:700px;position:absolute;left:50%;transform:translate3d(-50%,0,0)}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-3>.dropdown-menu::before{left:50%;transform:translate3d(-50%,0,0)}.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-3:not(.mega-fullwidth)>.dropdown-menu::before{display:block;border-bottom-color:rgba(255, 255, 255, 1)}.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-3.multi-level .dropdown-menu ul li .dropdown-menu{left:100%}.main-menu-3 > .j-menu li.main-menu-item-3>a>.menu-label{font-family:Helvetica,Arial,sans-serif;font-weight:400;color:rgba(255, 255, 255, 1);text-transform:none;background:rgba(0, 138, 221, 1);border-radius:2px;padding:1px;padding-right:4px;padding-left:4px;margin-right:calc(0px - (-10px));margin-top:12px}.main-menu-3 > .j-menu li.main-menu-item-3 .mega-menu-content{background:rgba(255, 255, 255, 1)}.desktop .main-menu-3 > .j-menu li.main-menu-item-3 .mega-menu-content{border-width:0px}.main-menu-3 > .j-menu li.main-menu-item-3 .j-dropdown>.mega-menu-content{box-shadow:5px 20px 40px rgba(0, 0, 0, 0.3);max-height:500px !important;overflow-y:auto}.main-menu-3 .main-menu-item-3.mega-menu .grid-row-1::before{display:block;left:0;width:100vw}.main-menu-3 .main-menu-item-3.mega-menu .grid-row-1 .grid-col-1{width:40%;background-image:url(\'http://ukclothes/image/cache/catalog/journal3/banners/grid-1d-520x430.jpg\');padding:10px}.main-menu-3 .main-menu-item-3.mega-menu .grid-row-1 .grid-col-1 .grid-items{justify-content:center}@media (max-width: 760px){.main-menu-3 .main-menu-item-3.mega-menu .grid-row-1 .grid-col-1{width:100%;padding-top:40px;padding-bottom:40px}}.main-menu-3 .main-menu-item-3.mega-menu .grid-row-1 .grid-col-2{width:60%;padding:10px}.main-menu-3 .main-menu-item-3.mega-menu .grid-row-1 .grid-col-2 .grid-items{justify-content:flex-start}@media (max-width: 760px){.main-menu-3 .main-menu-item-3.mega-menu .grid-row-1 .grid-col-2{width:100%}}.desktop-main-menu-wrapper .menu-fullwidth>.j-dropdown{width:100vw;left:50%;margin-left:-50vw}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-4 .mega-menu-content{width:500px;position:relative;left:0;transform:none}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-4>.dropdown-menu::before{left:0;transform:none}.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-4:not(.mega-fullwidth)>.dropdown-menu::before{display:block;margin-top:-10px}.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-4.multi-level .dropdown-menu ul li .dropdown-menu{left:100%}.main-menu-3 .main-menu-item-4.mega-menu .grid-row-1::before{display:block;left:-50%;width:100%}.main-menu-3 .main-menu-item-4.mega-menu .grid-row-1 .grid-col-1{width:66.66666666666666%}.main-menu-3 .main-menu-item-4.mega-menu .grid-row-1 .grid-col-1 .grid-items{justify-content:center}@media (max-width: 760px){.main-menu-3 .main-menu-item-4.mega-menu .grid-row-1 .grid-col-1{width:100%}}.main-menu-3 .main-menu-item-4.mega-menu .grid-row-1 .grid-col-2{width:33.33333333333333%;padding:10px}.main-menu-3 .main-menu-item-4.mega-menu .grid-row-1 .grid-col-2 .grid-items{justify-content:flex-start}@media (max-width: 760px){.main-menu-3 .main-menu-item-4.mega-menu .grid-row-1 .grid-col-2{width:100%}}.desktop-main-menu-wrapper .menu-fullwidth>.j-dropdown{width:100vw;left:50%;margin-left:-50vw}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-5 .mega-menu-content{width:500px;position:relative;left:0;transform:none}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-5>.dropdown-menu::before{left:0;transform:none}.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-5:not(.mega-fullwidth)>.dropdown-menu::before{display:block;margin-top:-10px}.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-5.multi-level .dropdown-menu ul li .dropdown-menu{left:100%}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'status' => true,
+    'id' => 'main-menu',
+    'module_id' => 3,
+    'classes' => 
+    array (
+      0 => 'main-menu',
+      1 => 'main-menu-3',
+      'accordion-menu' => false,
+    ),
+    'display' => 'dropdown',
+    'items' => 
+    array (
+      1 => 
+      array (
+        'title' => 'All Departments',
+        'label' => 'New',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '109',
+          'href' => 'http://ukclothes/index.php?route=product/category&amp;path=109',
+          'name' => 'Health &amp; Beauty',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'megamenu',
+        'mobileOpen' => false,
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'main-menu-item',
+          2 => 'main-menu-item-1',
+          3 => 'dropdown',
+          4 => 'mega-menu',
+          'icon-only' => false,
+          'menu-fullwidth' => true,
+          'mega-fullwidth' => true,
+          'mega-custom' => false,
+          'drop-menu' => false,
+        ),
+        'grid_classes' => 
+        array (
+          0 => 'grid-rows',
+        ),
+        'rows' => 
+        array (
+          1 => 
+          array (
+            'classes' => 
+            array (
+              0 => 'grid-row',
+              1 => 'grid-row-1',
+            ),
+            'columns' => 
+            array (
+              1 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-col',
+                  1 => 'grid-col-1',
+                ),
+                'items' => 
+                array (
+                  1 => 
+                  array (
+                    'classes' => 
+                    array (
+                      0 => 'grid-item',
+                      1 => 'grid-item-1',
+                    ),
+                    'item' => 
+                    array (
+                      'id' => '69',
+                      'name' => 'Catalog Left Image',
+                      'type' => 'catalog',
+                    ),
+                  ),
+                ),
+              ),
+              2 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-col',
+                  1 => 'grid-col-2',
+                ),
+                'items' => 
+                array (
+                  1 => 
+                  array (
+                    'classes' => 
+                    array (
+                      0 => 'grid-item',
+                      1 => 'grid-item-1',
+                    ),
+                    'item' => 
+                    array (
+                      'id' => '98',
+                      'name' => 'Promo Banner',
+                      'type' => 'banners',
+                    ),
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ),
+        'isOpen' => false,
+      ),
+      2 => 
+      array (
+        'title' => 'Multilevel',
+        'label' => '',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '59',
+          'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59',
+          'name' => 'Fashion',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'multilevel',
+        'mobileOpen' => false,
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'main-menu-item',
+          2 => 'main-menu-item-2',
+          'multi-level' => true,
+          'dropdown' => true,
+          'drop-menu' => 
+          array (
+            0 => false,
+            1 => true,
+          ),
+          'icon-only' => false,
+          'menu-fullwidth' => false,
+          'mega-fullwidth' => false,
+          'mega-custom' => false,
+        ),
+        'items' => 
+        array (
+          105 => 
+          array (
+            'category_id' => '105',
+            'parent_id' => '59',
+            'title' => 'Accesories',
+            'items' => 
+            array (
+              152 => 
+              array (
+                'category_id' => '152',
+                'parent_id' => '105',
+                'title' => 'Belts',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c152',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_105_152',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              116 => 
+              array (
+                'category_id' => '116',
+                'parent_id' => '105',
+                'title' => 'Hats',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c116',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_105_116',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              110 => 
+              array (
+                'category_id' => '110',
+                'parent_id' => '105',
+                'title' => 'Jewelry',
+                'items' => 
+                array (
+                  117 => 
+                  array (
+                    'category_id' => '117',
+                    'parent_id' => '110',
+                    'title' => 'Bracelets',
+                    'items' => 
+                    array (
+                    ),
+                    'classes' => 
+                    array (
+                      0 => 'menu-item menu-item-c117',
+                      'dropdown' => 
+                      array (
+                      ),
+                    ),
+                    'link' => 
+                    array (
+                      'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_105_110_117',
+                      'total' => '0',
+                      'classes' => 
+                      array (
+                      ),
+                    ),
+                  ),
+                  146 => 
+                  array (
+                    'category_id' => '146',
+                    'parent_id' => '110',
+                    'title' => 'Earrings',
+                    'items' => 
+                    array (
+                    ),
+                    'classes' => 
+                    array (
+                      0 => 'menu-item menu-item-c146',
+                      'dropdown' => 
+                      array (
+                      ),
+                    ),
+                    'link' => 
+                    array (
+                      'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_105_110_146',
+                      'total' => '0',
+                      'classes' => 
+                      array (
+                      ),
+                    ),
+                  ),
+                  114 => 
+                  array (
+                    'category_id' => '114',
+                    'parent_id' => '110',
+                    'title' => 'Necklaces',
+                    'items' => 
+                    array (
+                    ),
+                    'classes' => 
+                    array (
+                      0 => 'menu-item menu-item-c114',
+                      'dropdown' => 
+                      array (
+                      ),
+                    ),
+                    'link' => 
+                    array (
+                      'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_105_110_114',
+                      'total' => '0',
+                      'classes' => 
+                      array (
+                      ),
+                    ),
+                  ),
+                  115 => 
+                  array (
+                    'category_id' => '115',
+                    'parent_id' => '110',
+                    'title' => 'Rings',
+                    'items' => 
+                    array (
+                    ),
+                    'classes' => 
+                    array (
+                      0 => 'menu-item menu-item-c115',
+                      'dropdown' => 
+                      array (
+                      ),
+                    ),
+                    'link' => 
+                    array (
+                      'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_105_110_115',
+                      'total' => '0',
+                      'classes' => 
+                      array (
+                      ),
+                    ),
+                  ),
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c110',
+                  'dropdown' => 
+                  array (
+                    117 => 
+                    array (
+                      'category_id' => '117',
+                      'parent_id' => '110',
+                      'title' => 'Bracelets',
+                      'items' => 
+                      array (
+                      ),
+                      'classes' => 
+                      array (
+                        0 => 'menu-item menu-item-c117',
+                        'dropdown' => 
+                        array (
+                        ),
+                      ),
+                      'link' => 
+                      array (
+                        'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_105_110_117',
+                        'total' => '0',
+                        'classes' => 
+                        array (
+                        ),
+                      ),
+                    ),
+                    146 => 
+                    array (
+                      'category_id' => '146',
+                      'parent_id' => '110',
+                      'title' => 'Earrings',
+                      'items' => 
+                      array (
+                      ),
+                      'classes' => 
+                      array (
+                        0 => 'menu-item menu-item-c146',
+                        'dropdown' => 
+                        array (
+                        ),
+                      ),
+                      'link' => 
+                      array (
+                        'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_105_110_146',
+                        'total' => '0',
+                        'classes' => 
+                        array (
+                        ),
+                      ),
+                    ),
+                    114 => 
+                    array (
+                      'category_id' => '114',
+                      'parent_id' => '110',
+                      'title' => 'Necklaces',
+                      'items' => 
+                      array (
+                      ),
+                      'classes' => 
+                      array (
+                        0 => 'menu-item menu-item-c114',
+                        'dropdown' => 
+                        array (
+                        ),
+                      ),
+                      'link' => 
+                      array (
+                        'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_105_110_114',
+                        'total' => '0',
+                        'classes' => 
+                        array (
+                        ),
+                      ),
+                    ),
+                    115 => 
+                    array (
+                      'category_id' => '115',
+                      'parent_id' => '110',
+                      'title' => 'Rings',
+                      'items' => 
+                      array (
+                      ),
+                      'classes' => 
+                      array (
+                        0 => 'menu-item menu-item-c115',
+                        'dropdown' => 
+                        array (
+                        ),
+                      ),
+                      'link' => 
+                      array (
+                        'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_105_110_115',
+                        'total' => '0',
+                        'classes' => 
+                        array (
+                        ),
+                      ),
+                    ),
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_105_110',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              151 => 
+              array (
+                'category_id' => '151',
+                'parent_id' => '105',
+                'title' => 'Scarves',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c151',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_105_151',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              153 => 
+              array (
+                'category_id' => '153',
+                'parent_id' => '105',
+                'title' => 'Sunglasses',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c153',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_105_153',
+                  'total' => '1',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c105',
+              'dropdown' => 
+              array (
+                152 => 
+                array (
+                  'category_id' => '152',
+                  'parent_id' => '105',
+                  'title' => 'Belts',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c152',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_105_152',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                116 => 
+                array (
+                  'category_id' => '116',
+                  'parent_id' => '105',
+                  'title' => 'Hats',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c116',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_105_116',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                110 => 
+                array (
+                  'category_id' => '110',
+                  'parent_id' => '105',
+                  'title' => 'Jewelry',
+                  'items' => 
+                  array (
+                    117 => 
+                    array (
+                      'category_id' => '117',
+                      'parent_id' => '110',
+                      'title' => 'Bracelets',
+                      'items' => 
+                      array (
+                      ),
+                      'classes' => 
+                      array (
+                        0 => 'menu-item menu-item-c117',
+                        'dropdown' => 
+                        array (
+                        ),
+                      ),
+                      'link' => 
+                      array (
+                        'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_105_110_117',
+                        'total' => '0',
+                        'classes' => 
+                        array (
+                        ),
+                      ),
+                    ),
+                    146 => 
+                    array (
+                      'category_id' => '146',
+                      'parent_id' => '110',
+                      'title' => 'Earrings',
+                      'items' => 
+                      array (
+                      ),
+                      'classes' => 
+                      array (
+                        0 => 'menu-item menu-item-c146',
+                        'dropdown' => 
+                        array (
+                        ),
+                      ),
+                      'link' => 
+                      array (
+                        'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_105_110_146',
+                        'total' => '0',
+                        'classes' => 
+                        array (
+                        ),
+                      ),
+                    ),
+                    114 => 
+                    array (
+                      'category_id' => '114',
+                      'parent_id' => '110',
+                      'title' => 'Necklaces',
+                      'items' => 
+                      array (
+                      ),
+                      'classes' => 
+                      array (
+                        0 => 'menu-item menu-item-c114',
+                        'dropdown' => 
+                        array (
+                        ),
+                      ),
+                      'link' => 
+                      array (
+                        'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_105_110_114',
+                        'total' => '0',
+                        'classes' => 
+                        array (
+                        ),
+                      ),
+                    ),
+                    115 => 
+                    array (
+                      'category_id' => '115',
+                      'parent_id' => '110',
+                      'title' => 'Rings',
+                      'items' => 
+                      array (
+                      ),
+                      'classes' => 
+                      array (
+                        0 => 'menu-item menu-item-c115',
+                        'dropdown' => 
+                        array (
+                        ),
+                      ),
+                      'link' => 
+                      array (
+                        'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_105_110_115',
+                        'total' => '0',
+                        'classes' => 
+                        array (
+                        ),
+                      ),
+                    ),
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c110',
+                    'dropdown' => 
+                    array (
+                      117 => 
+                      array (
+                        'category_id' => '117',
+                        'parent_id' => '110',
+                        'title' => 'Bracelets',
+                        'items' => 
+                        array (
+                        ),
+                        'classes' => 
+                        array (
+                          0 => 'menu-item menu-item-c117',
+                          'dropdown' => 
+                          array (
+                          ),
+                        ),
+                        'link' => 
+                        array (
+                          'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_105_110_117',
+                          'total' => '0',
+                          'classes' => 
+                          array (
+                          ),
+                        ),
+                      ),
+                      146 => 
+                      array (
+                        'category_id' => '146',
+                        'parent_id' => '110',
+                        'title' => 'Earrings',
+                        'items' => 
+                        array (
+                        ),
+                        'classes' => 
+                        array (
+                          0 => 'menu-item menu-item-c146',
+                          'dropdown' => 
+                          array (
+                          ),
+                        ),
+                        'link' => 
+                        array (
+                          'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_105_110_146',
+                          'total' => '0',
+                          'classes' => 
+                          array (
+                          ),
+                        ),
+                      ),
+                      114 => 
+                      array (
+                        'category_id' => '114',
+                        'parent_id' => '110',
+                        'title' => 'Necklaces',
+                        'items' => 
+                        array (
+                        ),
+                        'classes' => 
+                        array (
+                          0 => 'menu-item menu-item-c114',
+                          'dropdown' => 
+                          array (
+                          ),
+                        ),
+                        'link' => 
+                        array (
+                          'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_105_110_114',
+                          'total' => '0',
+                          'classes' => 
+                          array (
+                          ),
+                        ),
+                      ),
+                      115 => 
+                      array (
+                        'category_id' => '115',
+                        'parent_id' => '110',
+                        'title' => 'Rings',
+                        'items' => 
+                        array (
+                        ),
+                        'classes' => 
+                        array (
+                          0 => 'menu-item menu-item-c115',
+                          'dropdown' => 
+                          array (
+                          ),
+                        ),
+                        'link' => 
+                        array (
+                          'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_105_110_115',
+                          'total' => '0',
+                          'classes' => 
+                          array (
+                          ),
+                        ),
+                      ),
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_105_110',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                151 => 
+                array (
+                  'category_id' => '151',
+                  'parent_id' => '105',
+                  'title' => 'Scarves',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c151',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_105_151',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                153 => 
+                array (
+                  'category_id' => '153',
+                  'parent_id' => '105',
+                  'title' => 'Sunglasses',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c153',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_105_153',
+                    'total' => '1',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_105',
+              'total' => '3',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          60 => 
+          array (
+            'category_id' => '60',
+            'parent_id' => '59',
+            'title' => 'Dresses',
+            'items' => 
+            array (
+              147 => 
+              array (
+                'category_id' => '147',
+                'parent_id' => '60',
+                'title' => 'Casual',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c147',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_60_147',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              149 => 
+              array (
+                'category_id' => '149',
+                'parent_id' => '60',
+                'title' => 'Evening',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c149',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_60_149',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              148 => 
+              array (
+                'category_id' => '148',
+                'parent_id' => '60',
+                'title' => 'Occasion',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c148',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_60_148',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              154 => 
+              array (
+                'category_id' => '154',
+                'parent_id' => '60',
+                'title' => 'Skirt',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c154',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_60_154',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              150 => 
+              array (
+                'category_id' => '150',
+                'parent_id' => '60',
+                'title' => 'Summer',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c150',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_60_150',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c60',
+              'dropdown' => 
+              array (
+                147 => 
+                array (
+                  'category_id' => '147',
+                  'parent_id' => '60',
+                  'title' => 'Casual',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c147',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_60_147',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                149 => 
+                array (
+                  'category_id' => '149',
+                  'parent_id' => '60',
+                  'title' => 'Evening',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c149',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_60_149',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                148 => 
+                array (
+                  'category_id' => '148',
+                  'parent_id' => '60',
+                  'title' => 'Occasion',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c148',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_60_148',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                154 => 
+                array (
+                  'category_id' => '154',
+                  'parent_id' => '60',
+                  'title' => 'Skirt',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c154',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_60_154',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                150 => 
+                array (
+                  'category_id' => '150',
+                  'parent_id' => '60',
+                  'title' => 'Summer',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c150',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_60_150',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_60',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          113 => 
+          array (
+            'category_id' => '113',
+            'parent_id' => '59',
+            'title' => 'Pants',
+            'items' => 
+            array (
+              137 => 
+              array (
+                'category_id' => '137',
+                'parent_id' => '113',
+                'title' => 'Formal',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c137',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_113_137',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              135 => 
+              array (
+                'category_id' => '135',
+                'parent_id' => '113',
+                'title' => 'Jeans',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c135',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_113_135',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              136 => 
+              array (
+                'category_id' => '136',
+                'parent_id' => '113',
+                'title' => 'Leggings',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c136',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_113_136',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              126 => 
+              array (
+                'category_id' => '126',
+                'parent_id' => '113',
+                'title' => 'Training',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c126',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_113_126',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c113',
+              'dropdown' => 
+              array (
+                137 => 
+                array (
+                  'category_id' => '137',
+                  'parent_id' => '113',
+                  'title' => 'Formal',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c137',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_113_137',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                135 => 
+                array (
+                  'category_id' => '135',
+                  'parent_id' => '113',
+                  'title' => 'Jeans',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c135',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_113_135',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                136 => 
+                array (
+                  'category_id' => '136',
+                  'parent_id' => '113',
+                  'title' => 'Leggings',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c136',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_113_136',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                126 => 
+                array (
+                  'category_id' => '126',
+                  'parent_id' => '113',
+                  'title' => 'Training',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c126',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_113_126',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_113',
+              'total' => '2',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          112 => 
+          array (
+            'category_id' => '112',
+            'parent_id' => '59',
+            'title' => 'T-Shirts',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c112',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_112',
+              'total' => '4',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          108 => 
+          array (
+            'category_id' => '108',
+            'parent_id' => '59',
+            'title' => 'Tops',
+            'items' => 
+            array (
+              106 => 
+              array (
+                'category_id' => '106',
+                'parent_id' => '108',
+                'title' => 'Jackets',
+                'items' => 
+                array (
+                  144 => 
+                  array (
+                    'category_id' => '144',
+                    'parent_id' => '106',
+                    'title' => 'Blazers',
+                    'items' => 
+                    array (
+                    ),
+                    'classes' => 
+                    array (
+                      0 => 'menu-item menu-item-c144',
+                      'dropdown' => 
+                      array (
+                      ),
+                    ),
+                    'link' => 
+                    array (
+                      'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_108_106_144',
+                      'total' => '0',
+                      'classes' => 
+                      array (
+                      ),
+                    ),
+                  ),
+                  145 => 
+                  array (
+                    'category_id' => '145',
+                    'parent_id' => '106',
+                    'title' => 'Coats',
+                    'items' => 
+                    array (
+                    ),
+                    'classes' => 
+                    array (
+                      0 => 'menu-item menu-item-c145',
+                      'dropdown' => 
+                      array (
+                      ),
+                    ),
+                    'link' => 
+                    array (
+                      'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_108_106_145',
+                      'total' => '0',
+                      'classes' => 
+                      array (
+                      ),
+                    ),
+                  ),
+                  143 => 
+                  array (
+                    'category_id' => '143',
+                    'parent_id' => '106',
+                    'title' => 'Leather',
+                    'items' => 
+                    array (
+                    ),
+                    'classes' => 
+                    array (
+                      0 => 'menu-item menu-item-c143',
+                      'dropdown' => 
+                      array (
+                      ),
+                    ),
+                    'link' => 
+                    array (
+                      'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_108_106_143',
+                      'total' => '0',
+                      'classes' => 
+                      array (
+                      ),
+                    ),
+                  ),
+                  142 => 
+                  array (
+                    'category_id' => '142',
+                    'parent_id' => '106',
+                    'title' => 'Suit',
+                    'items' => 
+                    array (
+                    ),
+                    'classes' => 
+                    array (
+                      0 => 'menu-item menu-item-c142',
+                      'dropdown' => 
+                      array (
+                      ),
+                    ),
+                    'link' => 
+                    array (
+                      'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_108_106_142',
+                      'total' => '0',
+                      'classes' => 
+                      array (
+                      ),
+                    ),
+                  ),
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c106',
+                  'dropdown' => 
+                  array (
+                    144 => 
+                    array (
+                      'category_id' => '144',
+                      'parent_id' => '106',
+                      'title' => 'Blazers',
+                      'items' => 
+                      array (
+                      ),
+                      'classes' => 
+                      array (
+                        0 => 'menu-item menu-item-c144',
+                        'dropdown' => 
+                        array (
+                        ),
+                      ),
+                      'link' => 
+                      array (
+                        'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_108_106_144',
+                        'total' => '0',
+                        'classes' => 
+                        array (
+                        ),
+                      ),
+                    ),
+                    145 => 
+                    array (
+                      'category_id' => '145',
+                      'parent_id' => '106',
+                      'title' => 'Coats',
+                      'items' => 
+                      array (
+                      ),
+                      'classes' => 
+                      array (
+                        0 => 'menu-item menu-item-c145',
+                        'dropdown' => 
+                        array (
+                        ),
+                      ),
+                      'link' => 
+                      array (
+                        'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_108_106_145',
+                        'total' => '0',
+                        'classes' => 
+                        array (
+                        ),
+                      ),
+                    ),
+                    143 => 
+                    array (
+                      'category_id' => '143',
+                      'parent_id' => '106',
+                      'title' => 'Leather',
+                      'items' => 
+                      array (
+                      ),
+                      'classes' => 
+                      array (
+                        0 => 'menu-item menu-item-c143',
+                        'dropdown' => 
+                        array (
+                        ),
+                      ),
+                      'link' => 
+                      array (
+                        'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_108_106_143',
+                        'total' => '0',
+                        'classes' => 
+                        array (
+                        ),
+                      ),
+                    ),
+                    142 => 
+                    array (
+                      'category_id' => '142',
+                      'parent_id' => '106',
+                      'title' => 'Suit',
+                      'items' => 
+                      array (
+                      ),
+                      'classes' => 
+                      array (
+                        0 => 'menu-item menu-item-c142',
+                        'dropdown' => 
+                        array (
+                        ),
+                      ),
+                      'link' => 
+                      array (
+                        'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_108_106_142',
+                        'total' => '0',
+                        'classes' => 
+                        array (
+                        ),
+                      ),
+                    ),
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_108_106',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              130 => 
+              array (
+                'category_id' => '130',
+                'parent_id' => '108',
+                'title' => 'Shirts',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c130',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_108_130',
+                  'total' => '3',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              129 => 
+              array (
+                'category_id' => '129',
+                'parent_id' => '108',
+                'title' => 'Sleeveless',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c129',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_108_129',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              127 => 
+              array (
+                'category_id' => '127',
+                'parent_id' => '108',
+                'title' => 'Summer',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c127',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_108_127',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c108',
+              'dropdown' => 
+              array (
+                106 => 
+                array (
+                  'category_id' => '106',
+                  'parent_id' => '108',
+                  'title' => 'Jackets',
+                  'items' => 
+                  array (
+                    144 => 
+                    array (
+                      'category_id' => '144',
+                      'parent_id' => '106',
+                      'title' => 'Blazers',
+                      'items' => 
+                      array (
+                      ),
+                      'classes' => 
+                      array (
+                        0 => 'menu-item menu-item-c144',
+                        'dropdown' => 
+                        array (
+                        ),
+                      ),
+                      'link' => 
+                      array (
+                        'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_108_106_144',
+                        'total' => '0',
+                        'classes' => 
+                        array (
+                        ),
+                      ),
+                    ),
+                    145 => 
+                    array (
+                      'category_id' => '145',
+                      'parent_id' => '106',
+                      'title' => 'Coats',
+                      'items' => 
+                      array (
+                      ),
+                      'classes' => 
+                      array (
+                        0 => 'menu-item menu-item-c145',
+                        'dropdown' => 
+                        array (
+                        ),
+                      ),
+                      'link' => 
+                      array (
+                        'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_108_106_145',
+                        'total' => '0',
+                        'classes' => 
+                        array (
+                        ),
+                      ),
+                    ),
+                    143 => 
+                    array (
+                      'category_id' => '143',
+                      'parent_id' => '106',
+                      'title' => 'Leather',
+                      'items' => 
+                      array (
+                      ),
+                      'classes' => 
+                      array (
+                        0 => 'menu-item menu-item-c143',
+                        'dropdown' => 
+                        array (
+                        ),
+                      ),
+                      'link' => 
+                      array (
+                        'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_108_106_143',
+                        'total' => '0',
+                        'classes' => 
+                        array (
+                        ),
+                      ),
+                    ),
+                    142 => 
+                    array (
+                      'category_id' => '142',
+                      'parent_id' => '106',
+                      'title' => 'Suit',
+                      'items' => 
+                      array (
+                      ),
+                      'classes' => 
+                      array (
+                        0 => 'menu-item menu-item-c142',
+                        'dropdown' => 
+                        array (
+                        ),
+                      ),
+                      'link' => 
+                      array (
+                        'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_108_106_142',
+                        'total' => '0',
+                        'classes' => 
+                        array (
+                        ),
+                      ),
+                    ),
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c106',
+                    'dropdown' => 
+                    array (
+                      144 => 
+                      array (
+                        'category_id' => '144',
+                        'parent_id' => '106',
+                        'title' => 'Blazers',
+                        'items' => 
+                        array (
+                        ),
+                        'classes' => 
+                        array (
+                          0 => 'menu-item menu-item-c144',
+                          'dropdown' => 
+                          array (
+                          ),
+                        ),
+                        'link' => 
+                        array (
+                          'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_108_106_144',
+                          'total' => '0',
+                          'classes' => 
+                          array (
+                          ),
+                        ),
+                      ),
+                      145 => 
+                      array (
+                        'category_id' => '145',
+                        'parent_id' => '106',
+                        'title' => 'Coats',
+                        'items' => 
+                        array (
+                        ),
+                        'classes' => 
+                        array (
+                          0 => 'menu-item menu-item-c145',
+                          'dropdown' => 
+                          array (
+                          ),
+                        ),
+                        'link' => 
+                        array (
+                          'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_108_106_145',
+                          'total' => '0',
+                          'classes' => 
+                          array (
+                          ),
+                        ),
+                      ),
+                      143 => 
+                      array (
+                        'category_id' => '143',
+                        'parent_id' => '106',
+                        'title' => 'Leather',
+                        'items' => 
+                        array (
+                        ),
+                        'classes' => 
+                        array (
+                          0 => 'menu-item menu-item-c143',
+                          'dropdown' => 
+                          array (
+                          ),
+                        ),
+                        'link' => 
+                        array (
+                          'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_108_106_143',
+                          'total' => '0',
+                          'classes' => 
+                          array (
+                          ),
+                        ),
+                      ),
+                      142 => 
+                      array (
+                        'category_id' => '142',
+                        'parent_id' => '106',
+                        'title' => 'Suit',
+                        'items' => 
+                        array (
+                        ),
+                        'classes' => 
+                        array (
+                          0 => 'menu-item menu-item-c142',
+                          'dropdown' => 
+                          array (
+                          ),
+                        ),
+                        'link' => 
+                        array (
+                          'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_108_106_142',
+                          'total' => '0',
+                          'classes' => 
+                          array (
+                          ),
+                        ),
+                      ),
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_108_106',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                130 => 
+                array (
+                  'category_id' => '130',
+                  'parent_id' => '108',
+                  'title' => 'Shirts',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c130',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_108_130',
+                    'total' => '3',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                129 => 
+                array (
+                  'category_id' => '129',
+                  'parent_id' => '108',
+                  'title' => 'Sleeveless',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c129',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_108_129',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                127 => 
+                array (
+                  'category_id' => '127',
+                  'parent_id' => '108',
+                  'title' => 'Summer',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c127',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_108_127',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'http://ukclothes/index.php?route=product/category&amp;path=59_108',
+              'total' => '4',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+        ),
+        'isOpen' => false,
+      ),
+      3 => 
+      array (
+        'title' => 'Custom Menu',
+        'label' => 'New',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '109',
+          'href' => 'http://ukclothes/index.php?route=product/category&amp;path=109',
+          'name' => 'Health &amp; Beauty',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'megamenu',
+        'mobileOpen' => false,
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'main-menu-item',
+          2 => 'main-menu-item-3',
+          3 => 'dropdown',
+          4 => 'mega-menu',
+          'icon-only' => false,
+          'menu-fullwidth' => false,
+          'mega-fullwidth' => false,
+          'mega-custom' => true,
+          'drop-menu' => false,
+        ),
+        'grid_classes' => 
+        array (
+          0 => 'grid-rows',
+        ),
+        'rows' => 
+        array (
+          1 => 
+          array (
+            'classes' => 
+            array (
+              0 => 'grid-row',
+              1 => 'grid-row-1',
+            ),
+            'columns' => 
+            array (
+              1 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-col',
+                  1 => 'grid-col-1',
+                ),
+                'items' => 
+                array (
+                  1 => 
+                  array (
+                    'classes' => 
+                    array (
+                      0 => 'grid-item',
+                      1 => 'grid-item-1',
+                    ),
+                    'item' => 
+                    array (
+                      'id' => '260',
+                      'name' => 'HTML Text Menu Copy',
+                      'type' => 'blocks',
+                    ),
+                  ),
+                ),
+              ),
+              2 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-col',
+                  1 => 'grid-col-2',
+                ),
+                'items' => 
+                array (
+                  1 => 
+                  array (
+                    'classes' => 
+                    array (
+                      0 => 'grid-item',
+                      1 => 'grid-item-1',
+                    ),
+                    'item' => 
+                    array (
+                      'id' => '119',
+                      'name' => 'Menu - No Image',
+                      'type' => 'catalog',
+                    ),
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ),
+        'isOpen' => false,
+      ),
+      4 => 
+      array (
+        'title' => 'Top Brands',
+        'label' => '',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '109',
+          'href' => 'http://ukclothes/index.php?route=product/category&amp;path=109',
+          'name' => 'Health &amp; Beauty',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'megamenu',
+        'mobileOpen' => false,
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'main-menu-item',
+          2 => 'main-menu-item-4',
+          3 => 'dropdown',
+          4 => 'mega-menu',
+          'icon-only' => false,
+          'menu-fullwidth' => true,
+          'mega-fullwidth' => true,
+          'mega-custom' => false,
+          'drop-menu' => false,
+        ),
+        'grid_classes' => 
+        array (
+          0 => 'grid-rows',
+        ),
+        'rows' => 
+        array (
+          1 => 
+          array (
+            'classes' => 
+            array (
+              0 => 'grid-row',
+              1 => 'grid-row-1',
+            ),
+            'columns' => 
+            array (
+              1 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-col',
+                  1 => 'grid-col-1',
+                ),
+                'items' => 
+                array (
+                  1 => 
+                  array (
+                    'classes' => 
+                    array (
+                      0 => 'grid-item',
+                      1 => 'grid-item-1',
+                    ),
+                    'item' => 
+                    array (
+                      'id' => '161',
+                      'name' => 'Catalog Brands',
+                      'type' => 'catalog',
+                    ),
+                  ),
+                ),
+              ),
+              2 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-col',
+                  1 => 'grid-col-2',
+                ),
+                'items' => 
+                array (
+                  1 => 
+                  array (
+                    'classes' => 
+                    array (
+                      0 => 'grid-item',
+                      1 => 'grid-item-1',
+                    ),
+                    'item' => 
+                    array (
+                      'id' => '186',
+                      'name' => 'Top Sellers',
+                      'type' => 'products',
+                    ),
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ),
+        'isOpen' => false,
+      ),
+      5 => 
+      array (
+        'title' => 'Blog',
+        'label' => '',
+        'link' => 
+        array (
+          'type' => 'blog_home',
+          'id' => '109',
+          'href' => 'http://ukclothes/index.php?route=journal3/blog',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => '',
+        'mobileOpen' => false,
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'main-menu-item',
+          2 => 'main-menu-item-5',
+          'multi-level' => true,
+          'dropdown' => false,
+          'drop-menu' => 
+          array (
+            0 => false,
+            1 => false,
+          ),
+          'icon-only' => false,
+          'menu-fullwidth' => false,
+          'mega-fullwidth' => false,
+          'mega-custom' => false,
+        ),
+        'items' => 
+        array (
+        ),
+        'isOpen' => false,
+      ),
+    ),
+  ),
+);

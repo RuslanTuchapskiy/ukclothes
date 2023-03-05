@@ -1,0 +1,374 @@
+<?php $val = array (
+  'css' => '.module-manufacturers-38 .manufacturer-thumb{background:rgba(255, 255, 255, 1)}.module-manufacturers-38 .manufacturer-thumb .image
+a{padding:15px}.module-manufacturers-38 .manufacturer-thumb .image
+img{opacity:0.5;transform:scale(1);filter:grayscale(1)}.module-manufacturers-38 .manufacturer-thumb:hover .image
+img{opacity:1;filter:grayscale(0)}.module-manufacturers-38 .manufacturer-thumb
+.name{display:none;background:rgba(49, 56, 70, 1);padding:5px}.module-manufacturers-38 .manufacturer-thumb .name
+a{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-size:13px;color:rgba(255, 255, 255, 1);text-align:center}.module-manufacturers-38 .swiper-container{overflow:hidden}.module-manufacturers-38 .swiper-buttons{display:block;top:50%;width:calc(100% - (-25px * 2))}.module-manufacturers-38 .swiper-button-prev{left:0;right:auto;transform:translate(0, -50%)}.module-manufacturers-38 .swiper-button-next{left:auto;right:0;transform:translate(0, -50%)}.module-manufacturers-38 .swiper-buttons
+div{width:50px;height:50px;background:rgba(49, 56, 70, 1);box-shadow:0 5px 30px -5px rgba(0, 0, 0, 0.15)}.module-manufacturers-38 .swiper-button-disabled{opacity:0.2}.module-manufacturers-38 .swiper-buttons div::before{content:\'\\e5c4\' !important;font-family:icomoon !important;color:rgba(255, 255, 255, 1)}.module-manufacturers-38 .swiper-buttons .swiper-button-next::before{content:\'\\e5c8\' !important;font-family:icomoon !important;color:rgba(255, 255, 255, 1)}.module-manufacturers-38 .swiper-buttons div:not(.swiper-button-disabled):hover{background:rgba(231, 40, 77, 1)}.module-manufacturers-38 .swiper-pagination{display:none;margin-bottom:-10px;left:50%;right:auto;transform:translateX(-50%)}.module-manufacturers-38:hover .swiper-pagination{display:block}.module-manufacturers-38 .swiper-pagination-bullet{width:10px;height:10px;background-color:rgba(49, 56, 70, 1)}.module-manufacturers-38 .swiper-pagination>span+span{margin-left:7px}.desktop .module-manufacturers-38 .swiper-pagination-bullet:hover{background-color:rgba(231, 40, 77, 1)}.module-manufacturers-38 .swiper-pagination-bullet.swiper-pagination-bullet-active{background-color:rgba(243, 109, 55, 1)}.module-manufacturers-38 .swiper-pagination>span{border-radius:20px}.module-manufacturers-38 .manufacturer-layout.swiper-slide{margin-right:0px;width:calc((100% - 9 * 0px) / 10 - 0.01px)}.module-manufacturers-38 .manufacturer-layout:not(.swiper-slide){padding:0px;width:calc(100% / 10 - 0.01px)}.one-column #content .module-manufacturers-38 .manufacturer-layout.swiper-slide{margin-right:0px;width:calc((100% - 6 * 0px) / 7 - 0.01px)}.one-column #content .module-manufacturers-38 .manufacturer-layout:not(.swiper-slide){padding:0px;width:calc(100% / 7 - 0.01px)}.two-column #content .module-manufacturers-38 .manufacturer-layout.swiper-slide{margin-right:0px;width:calc((100% - 2 * 0px) / 3 - 0.01px)}.two-column #content .module-manufacturers-38 .manufacturer-layout:not(.swiper-slide){padding:0px;width:calc(100% / 3 - 0.01px)}.side-column .module-manufacturers-38 .manufacturer-layout.swiper-slide{margin-right:0px;width:calc((100% - 1 * 0px) / 2 - 0.01px)}.side-column .module-manufacturers-38 .manufacturer-layout:not(.swiper-slide){padding:0px;width:calc(100% / 2 - 0.01px)}.module-manufacturers-38:not(.carousel-mode) .module-body>.module-item>.manufacturer-grid{margin:-10px}@media (max-width: 1500px){.module-manufacturers-38 .manufacturer-layout.swiper-slide{margin-right:0px;width:calc((100% - 7 * 0px) / 8 - 0.01px)}.module-manufacturers-38 .manufacturer-layout:not(.swiper-slide){padding:0px;width:calc(100% / 8 - 0.01px)}}@media (max-width: 1024px){.module-manufacturers-38 .manufacturer-layout.swiper-slide{margin-right:0px;width:calc((100% - 6 * 0px) / 7 - 0.01px)}.module-manufacturers-38 .manufacturer-layout:not(.swiper-slide){padding:0px;width:calc(100% / 7 - 0.01px)}}@media (max-width: 760px){.module-manufacturers-38 .manufacturer-layout.swiper-slide{margin-right:0px;width:calc((100% - 3 * 0px) / 4 - 0.01px)}.module-manufacturers-38 .manufacturer-layout:not(.swiper-slide){padding:0px;width:calc(100% / 4 - 0.01px)}}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'sectionsDisplay' => 'blocks',
+    'sectionsDisplayTablet' => '',
+    'sectionsDisplayPhone' => '',
+    'carousel' => true,
+    'itemsPerRow' => 
+    array (
+      'c0' => 
+      array (
+        0 => 
+        array (
+          'items' => 10,
+          'spacing' => 0,
+        ),
+        1500 => 
+        array (
+          'items' => 8,
+          'spacing' => 0,
+        ),
+        1024 => 
+        array (
+          'items' => 7,
+          'spacing' => 0,
+        ),
+        760 => 
+        array (
+          'items' => 4,
+          'spacing' => 0,
+        ),
+      ),
+      'c1' => 
+      array (
+        0 => 
+        array (
+          'items' => 7,
+          'spacing' => 0,
+        ),
+      ),
+      'c2' => 
+      array (
+        0 => 
+        array (
+          'items' => 3,
+          'spacing' => 0,
+        ),
+      ),
+      'sc' => 
+      array (
+        0 => 
+        array (
+          'items' => 2,
+          'spacing' => 0,
+        ),
+      ),
+    ),
+    'default' => 'f958006e-852a-47a5-8632-0108f59afc52',
+    'imageDimensions' => 
+    array (
+      'width' => 150,
+      'height' => 150,
+      'resize' => 'fit',
+    ),
+    'status' => true,
+    'id' => 'manufacturers-6404d1e10c7bd',
+    'module_id' => 38,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-manufacturers',
+      2 => 'module-manufacturers-38',
+      3 => 'module-manufacturers-',
+      'carousel-mode' => true,
+      'isotope' => false,
+    ),
+    'image_width' => 150,
+    'image_height' => 150,
+    'image_resize' => 'fit',
+    'carouselOptions' => 
+    array (
+      'speed' => 500,
+      'autoplay' => false,
+      'pauseOnHover' => true,
+      'loop' => false,
+    ),
+    'default_index' => 1,
+    'items' => 
+    array (
+      1 => 
+      array (
+        'title' => '',
+        'id' => '38-1',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-1',
+          'tab-pane' => false,
+          'active' => false,
+          'panel' => false,
+          'panel-active' => false,
+          'swiper-slide' => true,
+        ),
+        'tab_classes' => 
+        array (
+          0 => 'tab-1',
+          'active' => false,
+        ),
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+          'in' => false,
+        ),
+        'manufacturers' => 
+        array (
+          5 => 
+          array (
+            'classes' => 
+            array (
+              'swiper-slide' => true,
+              'isotope-item' => false,
+            ),
+            'manufacturer_id' => '5',
+            'thumb' => 'http://ukclothes/image/cache/catalog/journal3/brands/htc_logo-150x150w.jpg',
+            'thumb2x' => 'http://ukclothes/image/cache/catalog/journal3/brands/htc_logo-300x300w.jpg',
+            'name' => 'HTC',
+            'href' => 'http://ukclothes/index.php?route=product/manufacturer/info&amp;manufacturer_id=5',
+          ),
+          6 => 
+          array (
+            'classes' => 
+            array (
+              'swiper-slide' => true,
+              'isotope-item' => false,
+            ),
+            'manufacturer_id' => '6',
+            'thumb' => 'http://ukclothes/image/cache/catalog/journal3/brands/palm_logo-150x150w.jpg',
+            'thumb2x' => 'http://ukclothes/image/cache/catalog/journal3/brands/palm_logo-300x300w.jpg',
+            'name' => 'Palm',
+            'href' => 'http://ukclothes/index.php?route=product/manufacturer/info&amp;manufacturer_id=6',
+          ),
+          7 => 
+          array (
+            'classes' => 
+            array (
+              'swiper-slide' => true,
+              'isotope-item' => false,
+            ),
+            'manufacturer_id' => '7',
+            'thumb' => 'http://ukclothes/image/cache/catalog/journal3/brands/hp_logo-150x150w.jpg',
+            'thumb2x' => 'http://ukclothes/image/cache/catalog/journal3/brands/hp_logo-300x300w.jpg',
+            'name' => 'Hewlett-Packard',
+            'href' => 'http://ukclothes/index.php?route=product/manufacturer/info&amp;manufacturer_id=7',
+          ),
+          8 => 
+          array (
+            'classes' => 
+            array (
+              'swiper-slide' => true,
+              'isotope-item' => false,
+            ),
+            'manufacturer_id' => '8',
+            'thumb' => 'http://ukclothes/image/cache/catalog/journal3/brands/apple_logo-150x150h.jpg',
+            'thumb2x' => 'http://ukclothes/image/cache/catalog/journal3/brands/apple_logo-300x300h.jpg',
+            'name' => 'Apple',
+            'href' => 'http://ukclothes/index.php?route=product/manufacturer/info&amp;manufacturer_id=8',
+          ),
+          9 => 
+          array (
+            'classes' => 
+            array (
+              'swiper-slide' => true,
+              'isotope-item' => false,
+            ),
+            'manufacturer_id' => '9',
+            'thumb' => 'http://ukclothes/image/cache/catalog/journal3/brands/canon_logo-150x150w.jpg',
+            'thumb2x' => 'http://ukclothes/image/cache/catalog/journal3/brands/canon_logo-300x300w.jpg',
+            'name' => 'Canon',
+            'href' => 'http://ukclothes/index.php?route=product/manufacturer/info&amp;manufacturer_id=9',
+          ),
+          10 => 
+          array (
+            'classes' => 
+            array (
+              'swiper-slide' => true,
+              'isotope-item' => false,
+            ),
+            'manufacturer_id' => '10',
+            'thumb' => 'http://ukclothes/image/cache/catalog/journal3/brands/sony_logo-150x150w.jpg',
+            'thumb2x' => 'http://ukclothes/image/cache/catalog/journal3/brands/sony_logo-300x300w.jpg',
+            'name' => 'Sony',
+            'href' => 'http://ukclothes/index.php?route=product/manufacturer/info&amp;manufacturer_id=10',
+          ),
+          11 => 
+          array (
+            'classes' => 
+            array (
+              'swiper-slide' => true,
+              'isotope-item' => false,
+            ),
+            'manufacturer_id' => '11',
+            'thumb' => 'http://ukclothes/image/cache/catalog/journal3/brands/superbrand-150x150.jpg',
+            'thumb2x' => 'http://ukclothes/image/cache/catalog/journal3/brands/superbrand-300x300.jpg',
+            'name' => 'SuperBrand',
+            'href' => 'http://ukclothes/index.php?route=product/manufacturer/info&amp;manufacturer_id=11',
+          ),
+          12 => 
+          array (
+            'classes' => 
+            array (
+              'swiper-slide' => true,
+              'isotope-item' => false,
+            ),
+            'manufacturer_id' => '12',
+            'thumb' => 'http://ukclothes/image/cache/catalog/journal3/brands/awesome-150x150.jpg',
+            'thumb2x' => 'http://ukclothes/image/cache/catalog/journal3/brands/awesome-300x300.jpg',
+            'name' => 'Awesome Brand',
+            'href' => 'http://ukclothes/index.php?route=product/manufacturer/info&amp;manufacturer_id=12',
+          ),
+          13 => 
+          array (
+            'classes' => 
+            array (
+              'swiper-slide' => true,
+              'isotope-item' => false,
+            ),
+            'manufacturer_id' => '13',
+            'thumb' => 'http://ukclothes/image/cache/catalog/journal3/brands/chic-150x150.jpg',
+            'thumb2x' => 'http://ukclothes/image/cache/catalog/journal3/brands/chic-300x300.jpg',
+            'name' => 'Chic D\'or',
+            'href' => 'http://ukclothes/index.php?route=product/manufacturer/info&amp;manufacturer_id=13',
+          ),
+          14 => 
+          array (
+            'classes' => 
+            array (
+              'swiper-slide' => true,
+              'isotope-item' => false,
+            ),
+            'manufacturer_id' => '14',
+            'thumb' => 'http://ukclothes/image/cache/catalog/journal3/brands/hipster-150x150.jpg',
+            'thumb2x' => 'http://ukclothes/image/cache/catalog/journal3/brands/hipster-300x300.jpg',
+            'name' => 'Hipster',
+            'href' => 'http://ukclothes/index.php?route=product/manufacturer/info&amp;manufacturer_id=14',
+          ),
+          15 => 
+          array (
+            'classes' => 
+            array (
+              'swiper-slide' => true,
+              'isotope-item' => false,
+            ),
+            'manufacturer_id' => '15',
+            'thumb' => 'http://ukclothes/image/cache/catalog/journal3/brands/erikson-150x150.jpg',
+            'thumb2x' => 'http://ukclothes/image/cache/catalog/journal3/brands/erikson-300x300.jpg',
+            'name' => 'Ericksson',
+            'href' => 'http://ukclothes/index.php?route=product/manufacturer/info&amp;manufacturer_id=15',
+          ),
+          16 => 
+          array (
+            'classes' => 
+            array (
+              'swiper-slide' => true,
+              'isotope-item' => false,
+            ),
+            'manufacturer_id' => '16',
+            'thumb' => 'http://ukclothes/image/cache/catalog/journal3/brands/fashion-150x150.jpg',
+            'thumb2x' => 'http://ukclothes/image/cache/catalog/journal3/brands/fashion-300x300.jpg',
+            'name' => 'NY Fashion',
+            'href' => 'http://ukclothes/index.php?route=product/manufacturer/info&amp;manufacturer_id=16',
+          ),
+          17 => 
+          array (
+            'classes' => 
+            array (
+              'swiper-slide' => true,
+              'isotope-item' => false,
+            ),
+            'manufacturer_id' => '17',
+            'thumb' => 'http://ukclothes/image/cache/catalog/journal3/brands/FC-fashion-150x150.jpg',
+            'thumb2x' => 'http://ukclothes/image/cache/catalog/journal3/brands/FC-fashion-300x300.jpg',
+            'name' => 'Fort Cane',
+            'href' => 'http://ukclothes/index.php?route=product/manufacturer/info&amp;manufacturer_id=17',
+          ),
+          18 => 
+          array (
+            'classes' => 
+            array (
+              'swiper-slide' => true,
+              'isotope-item' => false,
+            ),
+            'manufacturer_id' => '18',
+            'thumb' => 'http://ukclothes/image/cache/catalog/journal3/brands/mellisa-150x150.jpg',
+            'thumb2x' => 'http://ukclothes/image/cache/catalog/journal3/brands/mellisa-300x300.jpg',
+            'name' => 'Melissa Johnson',
+            'href' => 'http://ukclothes/index.php?route=product/manufacturer/info&amp;manufacturer_id=18',
+          ),
+          19 => 
+          array (
+            'classes' => 
+            array (
+              'swiper-slide' => true,
+              'isotope-item' => false,
+            ),
+            'manufacturer_id' => '19',
+            'thumb' => 'http://ukclothes/image/cache/catalog/journal3/brands/olivia-fashion-150x150.jpg',
+            'thumb2x' => 'http://ukclothes/image/cache/catalog/journal3/brands/olivia-fashion-300x300.jpg',
+            'name' => 'Olivia Smith',
+            'href' => 'http://ukclothes/index.php?route=product/manufacturer/info&amp;manufacturer_id=19',
+          ),
+          20 => 
+          array (
+            'classes' => 
+            array (
+              'swiper-slide' => true,
+              'isotope-item' => false,
+            ),
+            'manufacturer_id' => '20',
+            'thumb' => 'http://ukclothes/image/cache/catalog/journal3/brands/sarah-beauty-150x150.jpg',
+            'thumb2x' => 'http://ukclothes/image/cache/catalog/journal3/brands/sarah-beauty-300x300.jpg',
+            'name' => 'Sarah Bell',
+            'href' => 'http://ukclothes/index.php?route=product/manufacturer/info&amp;manufacturer_id=20',
+          ),
+          21 => 
+          array (
+            'classes' => 
+            array (
+              'swiper-slide' => true,
+              'isotope-item' => false,
+            ),
+            'manufacturer_id' => '21',
+            'thumb' => 'http://ukclothes/image/cache/catalog/journal3/brands/sarah-cosmetics-150x150.jpg',
+            'thumb2x' => 'http://ukclothes/image/cache/catalog/journal3/brands/sarah-cosmetics-300x300.jpg',
+            'name' => 'Sarah Bloom',
+            'href' => 'http://ukclothes/index.php?route=product/manufacturer/info&amp;manufacturer_id=21',
+          ),
+          22 => 
+          array (
+            'classes' => 
+            array (
+              'swiper-slide' => true,
+              'isotope-item' => false,
+            ),
+            'manufacturer_id' => '22',
+            'thumb' => 'http://ukclothes/image/cache/catalog/journal3/brands/sunglasses-150x150.png',
+            'thumb2x' => 'http://ukclothes/image/cache/catalog/journal3/brands/sunglasses-300x300.png',
+            'name' => 'Scandinavian Sunglasses',
+            'href' => 'http://ukclothes/index.php?route=product/manufacturer/info&amp;manufacturer_id=22',
+          ),
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+);

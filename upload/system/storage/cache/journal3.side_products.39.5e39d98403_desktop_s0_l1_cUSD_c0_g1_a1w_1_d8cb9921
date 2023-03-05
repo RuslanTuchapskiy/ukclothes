@@ -1,0 +1,644 @@
+<?php $val = array (
+  'css' => '.module-side_products-39 .swiper-container{overflow:hidden}.module-side_products-39 .swiper-buttons{display:block;top:50%;width:calc(100% - (-25px * 2))}.module-side_products-39 .swiper-button-prev{left:0;right:auto;transform:translate(0, -50%)}.module-side_products-39 .swiper-button-next{left:auto;right:0;transform:translate(0, -50%)}.module-side_products-39 .swiper-buttons
+div{width:50px;height:50px;background:rgba(49, 56, 70, 1);box-shadow:0 5px 30px -5px rgba(0, 0, 0, 0.15)}.module-side_products-39 .swiper-button-disabled{opacity:0.2}.module-side_products-39 .swiper-buttons div::before{content:\'\\e5c4\' !important;font-family:icomoon !important;color:rgba(255, 255, 255, 1)}.module-side_products-39 .swiper-buttons .swiper-button-next::before{content:\'\\e5c8\' !important;font-family:icomoon !important;color:rgba(255, 255, 255, 1)}.module-side_products-39 .swiper-buttons div:not(.swiper-button-disabled):hover{background:rgba(231, 40, 77, 1)}.module-side_products-39 .swiper-pagination{display:none;margin-bottom:-10px;left:50%;right:auto;transform:translateX(-50%)}.module-side_products-39:hover .swiper-pagination{display:block}.module-side_products-39 .swiper-pagination-bullet{width:10px;height:10px;background-color:rgba(49, 56, 70, 1)}.module-side_products-39 .swiper-pagination>span+span{margin-left:7px}.desktop .module-side_products-39 .swiper-pagination-bullet:hover{background-color:rgba(231, 40, 77, 1)}.module-side_products-39 .swiper-pagination-bullet.swiper-pagination-bullet-active{background-color:rgba(243, 109, 55, 1)}.module-side_products-39 .swiper-pagination>span{border-radius:20px}.module-side_products-39 .nav-tabs > li > a, .module-side_products-39 .nav-tabs > li.active > a, .module-side_products-39 .nav-tabs > li.active > a:hover, .module-side_products-39 .nav-tabs>li.active>a:focus{color:rgba(187, 198, 221, 1);font-weight:700;text-align:center}.desktop .module-side_products-39 .nav-tabs > li:hover > a, .module-side_products-39 .nav-tabs>li.active>a{color:rgba(255, 255, 255, 1)}.module-side_products-39 .nav-tabs{border-width:0;border-bottom-width:1px;border-style:solid;border-color:rgba(187, 198, 221, 1);display:flex;justify-content:flex-start;flex-wrap:nowrap;overflow-x:auto;overflow-y:hidden;-webkit-overflow-scrolling:touch;;min-width:50px}.module-side_products-39 .nav-tabs>li{border-width:0;border-bottom-width:2px;border-style:solid;border-color:rgba(0, 0, 0, 0);flex-grow:0}.module-side_products-39 .nav-tabs>li.active{border-color:rgba(187, 198, 221, 1)}.module-side_products-39 .nav-tabs>li.active::after{display:none}.module-side_products-39 .nav-tabs>li>a{justify-content:center;white-space:nowrap;padding:10px}.module-side_products-39 .nav-tabs>li:last-child{margin-left:0}.module-side_products-39 .mobile .nav-tabs{overflow-x:scroll}.module-side_products-39 .nav-tabs::-webkit-scrollbar{-webkit-appearance:none;height:1px;height:2px;width:2px}.module-side_products-39 .nav-tabs::-webkit-scrollbar-track{background-color:white}.module-side_products-39 .nav-tabs::-webkit-scrollbar-thumb{background-color:#999;background-color:rgba(0, 138, 221, 1)}.module-side_products-39 .tab-container::before{display:none}.module-side_products-39 .tab-content{padding-top:15px}.module-side_products-39 .tab-container{display:block}.module-side_products-39 .tab-container .nav-tabs{flex-direction:row}.module-side_products-39 .product-layout.swiper-slide{margin-right:10px;width:calc((100% - 4 * 10px) / 5 - 0.01px)}.module-side_products-39 .product-layout:not(.swiper-slide){padding:5px;width:calc(100% / 5 - 0.01px)}.one-column #content .module-side_products-39 .product-layout.swiper-slide{margin-right:10px;width:calc((100% - 3 * 10px) / 4 - 0.01px)}.one-column #content .module-side_products-39 .product-layout:not(.swiper-slide){padding:5px;width:calc(100% / 4 - 0.01px)}.two-column #content .module-side_products-39 .product-layout.swiper-slide{margin-right:10px;width:calc((100% - 2 * 10px) / 3 - 0.01px)}.two-column #content .module-side_products-39 .product-layout:not(.swiper-slide){padding:5px;width:calc(100% / 3 - 0.01px)}.side-column .module-side_products-39 .product-layout.swiper-slide{margin-right:10px;width:calc((100% - 0 * 10px) / 1 - 0.01px)}.side-column .module-side_products-39 .product-layout:not(.swiper-slide){padding:5px;width:calc(100% / 1 - 0.01px)}.module-side_products-39 .side-products-blocks>div{width:calc(100% / 1)}.module-side_products-39:not(.carousel-mode) .module-body>.module-item>.side-products{margin:-10px}.module-side_products-39 .side-product{background:rgba(255, 255, 255, 1);padding:7px}.module-side_products-39 .side-product
+.image{width:30%}.module-side_products-39 .side-product
+.caption{width:calc(100% - 30%);padding:5px;padding-top:2px}.module-side_products-39 .side-product .quickview-button{display:inline-flex;visibility:hidden;opacity:0;left:50%;top:50%;transform:translate(-50%, -50%) scale(.85)}.module-side_products-39 .side-product:hover .quickview-button{visibility:visible;opacity:1;left:50%;top:50%;transform:translate(-50%, -50%) scale(1)}.module-side_products-39 .side-product .btn-quickview::before{content:\'\\f06e\' !important;font-family:icomoon !important}.module-side_products-39 .side-product .btn-quickview.btn, .module-side_products-39 .side-product .btn-quickview.btn:visited{font-size:12px}.module-side_products-39 .side-product .btn-quickview.btn{background:rgba(0, 138, 221, 1);padding:2px;padding-right:7px;padding-bottom:3px;padding-left:7px;border-radius:2px !important;min-width:20px;min-height:20px}.module-side_products-39 .side-product .btn-quickview.btn:hover{background:rgba(46, 175, 35, 1) !important}.desktop .module-side_products-39 .side-product .btn-quickview.btn:hover{box-shadow:0 5px 30px -5px rgba(0, 0, 0, 0.25)}.module-side_products-39 .side-product .btn-quickview.btn:active, .module-side_products-39 .side-product .btn-quickview.btn:hover:active, .module-side_products-39 .side-product .btn-quickview.btn:focus:active{box-shadow:inset 0 0 20px rgba(0, 0, 0, 0.25)}.module-side_products-39 .side-product .btn-quickview.btn:focus{box-shadow:inset 0 0 20px rgba(0, 0, 0, 0.25)}.module-side_products-39 .side-product .btn-quickview.btn.btn.disabled::after{font-size:20px}.module-side_products-39 .side-product
+.name{display:block;margin-bottom:2px}.module-side_products-39 .side-product .name
+a{white-space:normal;overflow:visible;text-overflow:initial;font-size:13px;line-height:1.3}.module-side_products-39 .side-product
+.price{display:flex;align-items:center;flex-direction:row;font-size:12px;margin-bottom:4px}.module-side_products-39 .side-product .price-tax{font-size:12px;display:none}.module-side_products-39 .side-product .price-old{margin:0;order:2;color:rgba(89, 96, 119, 1);text-decoration:line-through}.module-side_products-39 .side-product .price-new{margin:0
+5px 0 0;order:1;color:rgba(46, 175, 35, 1)}.module-side_products-39 .side-product
+.rating{display:flex;margin-left:-2px}.module-side_products-39 .side-product .rating.no-rating{display:none}.module-side_products-39 .side-product .rating .fa-stack{font-size:10px;width:1.1em}.module-side_products-39 .side-product .rating .fa-star, .module-side_products-39 .side-product .rating .fa-star+.fa-star-o{color:rgba(255, 214, 0, 1)}.module-side_products-39 .side-product .rating .fa-star-o:only-child{color:rgba(89, 96, 119, 1)}.module-side_products-39 .side-product .button-group{display:none}@media (max-width: 1024px){.module-side_products-39 .product-layout.swiper-slide{margin-right:10px;width:calc((100% - 2 * 10px) / 3 - 0.01px)}.module-side_products-39 .product-layout:not(.swiper-slide){padding:5px;width:calc(100% / 3 - 0.01px)}.one-column #content .module-side_products-39 .product-layout.swiper-slide{margin-right:10px;width:calc((100% - 2 * 10px) / 3 - 0.01px)}.one-column #content .module-side_products-39 .product-layout:not(.swiper-slide){padding:5px;width:calc(100% / 3 - 0.01px)}.two-column #content .module-side_products-39 .product-layout.swiper-slide{margin-right:10px;width:calc((100% - 1 * 10px) / 2 - 0.01px)}.two-column #content .module-side_products-39 .product-layout:not(.swiper-slide){padding:5px;width:calc(100% / 2 - 0.01px)}}@media (max-width: 760px){.module-side_products-39 .product-layout.swiper-slide{margin-right:10px;width:calc((100% - 2 * 10px) / 3 - 0.01px)}.module-side_products-39 .product-layout:not(.swiper-slide){padding:5px;width:calc(100% / 3 - 0.01px)}.one-column #content .module-side_products-39 .product-layout.swiper-slide{margin-right:10px;width:calc((100% - 1 * 10px) / 2 - 0.01px)}.one-column #content .module-side_products-39 .product-layout:not(.swiper-slide){padding:5px;width:calc(100% / 2 - 0.01px)}.module-side_products-39 .side-product
+.caption{padding-top:5px;padding-left:0px}}@media (max-width: 470px){.module-side_products-39 .nav-tabs{border-width:0;border-bottom-width:0px}.module-side_products-39 .product-layout.swiper-slide{margin-right:10px;width:calc((100% - 1 * 10px) / 2 - 0.01px)}.module-side_products-39 .product-layout:not(.swiper-slide){padding:5px;width:calc(100% / 2 - 0.01px)}}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'sectionsDisplay' => 'tabs',
+    'sectionsDisplayTablet' => '',
+    'sectionsDisplayPhone' => '',
+    'carousel' => true,
+    'itemsPerRow' => 
+    array (
+      'c0' => 
+      array (
+        0 => 
+        array (
+          'items' => 5,
+          'spacing' => 10,
+        ),
+        1024 => 
+        array (
+          'items' => 3,
+          'spacing' => 10,
+        ),
+        760 => 
+        array (
+          'items' => 3,
+          'spacing' => 10,
+        ),
+        470 => 
+        array (
+          'items' => 2,
+          'spacing' => 10,
+        ),
+      ),
+      'c1' => 
+      array (
+        0 => 
+        array (
+          'items' => 4,
+          'spacing' => 10,
+        ),
+        1024 => 
+        array (
+          'items' => 3,
+          'spacing' => 10,
+        ),
+        760 => 
+        array (
+          'items' => 2,
+          'spacing' => 10,
+        ),
+      ),
+      'c2' => 
+      array (
+        0 => 
+        array (
+          'items' => 3,
+          'spacing' => 10,
+        ),
+        1024 => 
+        array (
+          'items' => 2,
+          'spacing' => 10,
+        ),
+      ),
+      'sc' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 10,
+        ),
+      ),
+    ),
+    'default' => 'a8efcf1c-93b8-4ce3-aa28-79fd91b86d90',
+    'imageDimensions' => 
+    array (
+      'width' => 70,
+      'height' => 70,
+      'resize' => 'fit',
+    ),
+    'moduleSideProductQuickviewTooltipStatus' => true,
+    'moduleSideProductQuickviewTooltipPosition' => 'top',
+    'moduleSideProductRatingVisibility' => true,
+    'moduleSideProductCartTooltipStatus' => true,
+    'moduleSideProductCartTooltipPosition' => 'top',
+    'moduleSideProductWishlistTooltipStatus' => true,
+    'moduleSideProductWishlistTooltipPosition' => 'top',
+    'moduleSideProductCompareTooltipStatus' => true,
+    'moduleSideProductCompareTooltipPosition' => 'top',
+    'status' => true,
+    'id' => 'side_products-6404d1e92aaa3',
+    'module_id' => 39,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-side_products',
+      2 => 'module-side_products-39',
+      'carousel-mode' => true,
+      'isotope' => false,
+    ),
+    'image_width' => 70,
+    'image_height' => 70,
+    'image_resize' => 'fit',
+    'carouselOptions' => 
+    array (
+      'speed' => 500,
+      'autoplay' => false,
+      'pauseOnHover' => true,
+      'loop' => false,
+    ),
+    'text_tax' => 'Ex Tax:',
+    'button_cart' => 'Add to Cart',
+    'button_wishlist' => 'Add to Wish List',
+    'button_compare' => 'Compare this Product',
+    'default_index' => 1,
+    'items' => 
+    array (
+      1 => 
+      array (
+        'title' => 'You Might Also Like',
+        'filter' => 
+        array (
+          'sort' => 'p.sort_order',
+          'order' => 'ASC',
+          'start' => 0,
+          'limit' => 5,
+          'preset' => 'related_category',
+          'related' => true,
+        ),
+        'id' => '39-1',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-1',
+          'tab-pane' => true,
+          'panel' => false,
+          'swiper-slide' => false,
+        ),
+        'tab_classes' => 
+        array (
+          0 => 'tab-1',
+        ),
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'products' => NULL,
+        'items' => 
+        array (
+        ),
+      ),
+      2 => 
+      array (
+        'title' => 'Recently Viewed',
+        'filter' => 
+        array (
+          'sort' => 'p.sort_order',
+          'order' => 'ASC',
+          'start' => 0,
+          'limit' => 5,
+          'preset' => 'recently_viewed',
+          'recently_viewed' => true,
+        ),
+        'id' => '39-2',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-2',
+          'tab-pane' => true,
+          'panel' => false,
+          'swiper-slide' => false,
+        ),
+        'tab_classes' => 
+        array (
+          0 => 'tab-2',
+        ),
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'products' => NULL,
+        'items' => 
+        array (
+        ),
+      ),
+      3 => 
+      array (
+        'title' => 'Most Viewed',
+        'filter' => 
+        array (
+          'sort' => 'p.viewed',
+          'order' => 'DESC',
+          'start' => 0,
+          'limit' => 5,
+          'preset' => 'most_viewed',
+        ),
+        'id' => '39-3',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-3',
+          'tab-pane' => true,
+          'panel' => false,
+          'swiper-slide' => false,
+        ),
+        'tab_classes' => 
+        array (
+          0 => 'tab-3',
+        ),
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'products' => 
+        array (
+          271 => 
+          array (
+            'classes' => 
+            array (
+              'swiper-slide' => true,
+              'isotope-item' => false,
+              0 => '',
+            ),
+            'quantity' => '57',
+            'stock_status' => 'Out Of Stock',
+            'thumb2x' => 'http://ukclothes/image/cache/placeholder-140x140.png',
+            'second_thumb' => false,
+            'second_thumb2x' => false,
+            'labels' => 
+            array (
+              29 => 
+              array (
+                'type' => 'custom',
+                'label' => 'New',
+                'display' => 'default',
+              ),
+            ),
+            'extra_buttons' => 
+            array (
+              46 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Buy Now',
+                'action' => 'quickbuy',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              93 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Ask Question',
+                'action' => 'link',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'date_end' => NULL,
+            'price_value' => true,
+            'stat1' => NULL,
+            'stat2' => NULL,
+            'product_id' => '271',
+            'thumb' => 'http://ukclothes/image/cache/placeholder-70x70.png',
+            'name' => 'Oversized Sunglasses For Long Summer Days',
+            'description' => 'Product description, along with any other tab can be displayed as tabs, accordion or all-visible blocks in grid format or one under the other.&nbsp; You can mix and match tabs and blocks in any order and any position. Each tab can also be set up as a link and point to other pages or open popup modul..',
+            'price' => '$397.00',
+            'special' => false,
+            'tax' => '$397.00',
+            'minimum' => '1',
+            'rating' => 0.0,
+            'href' => 'http://ukclothes/index.php?route=product/product&amp;product_id=271',
+          ),
+          273 => 
+          array (
+            'classes' => 
+            array (
+              'swiper-slide' => true,
+              'isotope-item' => false,
+              0 => '',
+            ),
+            'quantity' => '878',
+            'stock_status' => 'Out Of Stock',
+            'thumb2x' => 'http://ukclothes/image/cache/placeholder-140x140.png',
+            'second_thumb' => false,
+            'second_thumb2x' => false,
+            'labels' => 
+            array (
+            ),
+            'extra_buttons' => 
+            array (
+              46 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Buy Now',
+                'action' => 'quickbuy',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              93 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Ask Question',
+                'action' => 'link',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'date_end' => NULL,
+            'price_value' => true,
+            'stat1' => NULL,
+            'stat2' => NULL,
+            'product_id' => '273',
+            'thumb' => 'http://ukclothes/image/cache/placeholder-70x70.png',
+            'name' => 'Sport Watch',
+            'description' => 'Product description, along with any other tab can be displayed as tabs, accordion or all-visible blocks in grid format or one under the other.&nbsp; You can mix and match tabs and blocks in any order and any position. Each tab can also be set up as a link and point to other pages or open popup modul..',
+            'price' => '$209.15',
+            'special' => false,
+            'tax' => '$209.15',
+            'minimum' => '1',
+            'rating' => 0.0,
+            'href' => 'http://ukclothes/index.php?route=product/product&amp;product_id=273',
+          ),
+          272 => 
+          array (
+            'classes' => 
+            array (
+              'swiper-slide' => true,
+              'isotope-item' => false,
+              0 => '',
+            ),
+            'quantity' => '0',
+            'stock_status' => 'Out Of Stock',
+            'thumb2x' => 'http://ukclothes/image/cache/placeholder-140x140.png',
+            'second_thumb' => false,
+            'second_thumb2x' => false,
+            'labels' => 
+            array (
+              29 => 
+              array (
+                'type' => 'custom',
+                'label' => 'New',
+                'display' => 'default',
+              ),
+              30 => 
+              array (
+                'type' => 'outofstock',
+                'label' => 'Out Of Stock',
+                'display' => 'diagonal',
+              ),
+            ),
+            'extra_buttons' => 
+            array (
+              46 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Buy Now',
+                'action' => 'quickbuy',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              93 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Ask Question',
+                'action' => 'link',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'date_end' => NULL,
+            'price_value' => true,
+            'stat1' => NULL,
+            'stat2' => NULL,
+            'product_id' => '272',
+            'thumb' => 'http://ukclothes/image/cache/placeholder-70x70.png',
+            'name' => 'Red Formal Watch',
+            'description' => 'Product description, along with any other tab can be displayed as tabs, accordion or all-visible blocks in grid format or one under the other.&nbsp; You can mix and match tabs and blocks in any order and any position. Each tab can also be set up as a link and point to other pages or open popup modul..',
+            'price' => '$3,010.00',
+            'special' => false,
+            'tax' => '$3,010.00',
+            'minimum' => '1',
+            'rating' => 0.0,
+            'href' => 'http://ukclothes/index.php?route=product/product&amp;product_id=272',
+          ),
+          269 => 
+          array (
+            'classes' => 
+            array (
+              'swiper-slide' => true,
+              'isotope-item' => false,
+              0 => '',
+            ),
+            'quantity' => '0',
+            'stock_status' => '2-3 Days',
+            'thumb2x' => 'http://ukclothes/image/cache/placeholder-140x140.png',
+            'second_thumb' => false,
+            'second_thumb2x' => false,
+            'labels' => 
+            array (
+              30 => 
+              array (
+                'type' => 'outofstock',
+                'label' => '2-3 Days',
+                'display' => 'diagonal',
+              ),
+            ),
+            'extra_buttons' => 
+            array (
+              46 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Buy Now',
+                'action' => 'quickbuy',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              93 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Ask Question',
+                'action' => 'link',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'date_end' => NULL,
+            'price_value' => true,
+            'stat1' => NULL,
+            'stat2' => NULL,
+            'product_id' => '269',
+            'thumb' => 'http://ukclothes/image/cache/placeholder-70x70.png',
+            'name' => 'Cool Boots',
+            'description' => 'Product description, along with any other tab can be displayed as tabs, accordion or all-visible blocks in grid format or one under the other.&nbsp; You can mix and match tabs and blocks in any order and any position. Each tab can also be set up as a link and point to other pages or open popup modul..',
+            'price' => '$779.00',
+            'special' => false,
+            'tax' => '$779.00',
+            'minimum' => '1',
+            'rating' => 0.0,
+            'href' => 'http://ukclothes/index.php?route=product/product&amp;product_id=269',
+          ),
+          264 => 
+          array (
+            'classes' => 
+            array (
+              'swiper-slide' => true,
+              'isotope-item' => false,
+              0 => '',
+            ),
+            'quantity' => '58',
+            'stock_status' => 'Out Of Stock',
+            'thumb2x' => 'http://ukclothes/image/cache/placeholder-140x140.png',
+            'second_thumb' => false,
+            'second_thumb2x' => false,
+            'labels' => 
+            array (
+              29 => 
+              array (
+                'type' => 'custom',
+                'label' => 'New',
+                'display' => 'default',
+              ),
+            ),
+            'extra_buttons' => 
+            array (
+              46 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Buy Now',
+                'action' => 'quickbuy',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              93 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Ask Question',
+                'action' => 'link',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'date_end' => NULL,
+            'price_value' => true,
+            'stat1' => NULL,
+            'stat2' => NULL,
+            'product_id' => '264',
+            'thumb' => 'http://ukclothes/image/cache/placeholder-70x70.png',
+            'name' => 'Sample Cherry Perfume',
+            'description' => 'Product description, along with any other tab can be displayed as tabs, accordion or all-visible blocks in grid format or one under the other.&nbsp; You can mix and match tabs and blocks in any order and any position. Each tab can also be set up as a link and point to other pages or open popup modul..',
+            'price' => '$7,450.00',
+            'special' => false,
+            'tax' => '$7,450.00',
+            'minimum' => '1',
+            'rating' => 0.0,
+            'href' => 'http://ukclothes/index.php?route=product/product&amp;product_id=264',
+          ),
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+);
