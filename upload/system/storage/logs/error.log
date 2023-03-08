@@ -1,0 +1,6 @@
+2023-03-07 15:04:54 - PHP Notice:  Undefined index: stock_status_id in C:\OSPanel\domains\ukclothes\upload\admin\model\catalog\product.php on line 4
+2023-03-07 15:04:54 - PHP Notice:  Undefined index: weight_class_id in C:\OSPanel\domains\ukclothes\upload\admin\model\catalog\product.php on line 4
+2023-03-07 15:04:54 - PHP Notice:  Undefined index: length_class_id in C:\OSPanel\domains\ukclothes\upload\admin\model\catalog\product.php on line 4
+2023-03-07 18:26:21 - PHP Notice:  Undefined index: stock_status_id in C:\OSPanel\domains\ukclothes\upload\admin\model\catalog\product.php on line 143
+2023-03-07 18:26:21 - PHP Notice:  Undefined index: weight_class_id in C:\OSPanel\domains\ukclothes\upload\admin\model\catalog\product.php on line 143
+2023-03-07 18:26:21 - PHP Notice:  Undefined index: length_class_id in C:\OSPanel\domains\ukclothes\upload\admin\model\catalog\product.php on line 143

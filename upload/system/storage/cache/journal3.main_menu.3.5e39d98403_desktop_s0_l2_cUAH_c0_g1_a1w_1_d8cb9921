@@ -1,0 +1,228 @@
+<?php $val = array (
+  'css' => '.desktop-main-menu-wrapper .menu-fullwidth>.j-dropdown{width:100vw;left:50%;margin-left:-50vw}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-1 .mega-menu-content{width:500px;position:relative;left:0;transform:none}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-1>.dropdown-menu::before{left:0;transform:none}.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-1:not(.mega-fullwidth)>.dropdown-menu::before{display:block;margin-top:-10px}.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-1.multi-level .dropdown-menu ul li .dropdown-menu{left:100%}.main-menu-3 > .j-menu li.main-menu-item-1>a>.menu-label{font-family:Helvetica,Arial,sans-serif;font-weight:400;color:rgba(255, 255, 255, 1);text-transform:none;background:rgba(46, 175, 35, 1);border-radius:2px;padding:1px;padding-right:4px;padding-left:4px;margin-right:calc(0px - (-10px));margin-top:12px}@media (max-width: 1224px){.main-menu-3 > .j-menu li.main-menu-item-1>a>.menu-label{margin-right:calc(0px - (0px))}}.main-menu-3 .main-menu-item-1.mega-menu .grid-row-1::before{display:block;left:50%;width:100vw}.main-menu-3 .main-menu-item-1.mega-menu .grid-row-1 .grid-col-1{width:80%;padding:10px;padding-left:0px}.main-menu-3 .main-menu-item-1.mega-menu .grid-row-1 .grid-col-1 .grid-items{justify-content:flex-start}@media (max-width: 1340px){.main-menu-3 .main-menu-item-1.mega-menu .grid-row-1 .grid-col-1{padding-left:20px}}@media (max-width: 1224px){.main-menu-3 .main-menu-item-1.mega-menu .grid-row-1 .grid-col-1{padding-left:10px}}@media (max-width: 760px){.main-menu-3 .main-menu-item-1.mega-menu .grid-row-1 .grid-col-1{width:100%}}.main-menu-3 .main-menu-item-1.mega-menu .grid-row-1 .grid-col-2{width:20%;border-width:0;border-left-width:1px;border-style:solid;border-color:rgba(221, 221, 221, 1);padding:20px}.main-menu-3 .main-menu-item-1.mega-menu .grid-row-1 .grid-col-2 .grid-items{justify-content:flex-start}@media (max-width: 760px){.main-menu-3 .main-menu-item-1.mega-menu .grid-row-1 .grid-col-2{width:100%;padding:0px}}.desktop-main-menu-wrapper .menu-fullwidth>.j-dropdown{width:100vw;left:50%;margin-left:-50vw}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-4 .mega-menu-content{width:500px;position:relative;left:0;transform:none}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-4>.dropdown-menu::before{left:0;transform:none}.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-4:not(.mega-fullwidth)>.dropdown-menu::before{display:block;margin-top:-10px}.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-4.multi-level .dropdown-menu ul li .dropdown-menu{left:100%}.main-menu-3 .main-menu-item-4.mega-menu .grid-row-1::before{display:block;left:-50%;width:100%}.main-menu-3 .main-menu-item-4.mega-menu .grid-row-1 .grid-col-1{width:66.66666666666666%}.main-menu-3 .main-menu-item-4.mega-menu .grid-row-1 .grid-col-1 .grid-items{justify-content:center}@media (max-width: 760px){.main-menu-3 .main-menu-item-4.mega-menu .grid-row-1 .grid-col-1{width:100%}}.main-menu-3 .main-menu-item-4.mega-menu .grid-row-1 .grid-col-2{width:33.33333333333333%;padding:10px}.main-menu-3 .main-menu-item-4.mega-menu .grid-row-1 .grid-col-2 .grid-items{justify-content:flex-start}@media (max-width: 760px){.main-menu-3 .main-menu-item-4.mega-menu .grid-row-1 .grid-col-2{width:100%}}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'status' => true,
+    'id' => 'main-menu',
+    'module_id' => 3,
+    'classes' => 
+    array (
+      0 => 'main-menu',
+      1 => 'main-menu-3',
+      'accordion-menu' => false,
+    ),
+    'display' => 'dropdown',
+    'items' => 
+    array (
+      1 => 
+      array (
+        'title' => 'Всі категорії',
+        'label' => '',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '109',
+          'href' => 'http://ukclothes/index.php?route=product/catalog',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'megamenu',
+        'mobileOpen' => false,
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'main-menu-item',
+          2 => 'main-menu-item-1',
+          3 => 'dropdown',
+          4 => 'mega-menu',
+          'icon-only' => false,
+          'menu-fullwidth' => true,
+          'mega-fullwidth' => true,
+          'mega-custom' => false,
+          'drop-menu' => false,
+        ),
+        'grid_classes' => 
+        array (
+          0 => 'grid-rows',
+        ),
+        'rows' => 
+        array (
+          1 => 
+          array (
+            'classes' => 
+            array (
+              0 => 'grid-row',
+              1 => 'grid-row-1',
+            ),
+            'columns' => 
+            array (
+              1 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-col',
+                  1 => 'grid-col-1',
+                ),
+                'items' => 
+                array (
+                  1 => 
+                  array (
+                    'classes' => 
+                    array (
+                      0 => 'grid-item',
+                      1 => 'grid-item-1',
+                    ),
+                    'item' => 
+                    array (
+                      'id' => '69',
+                      'name' => 'Catalog Left Image',
+                      'type' => 'catalog',
+                    ),
+                  ),
+                ),
+              ),
+              2 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-col',
+                  1 => 'grid-col-2',
+                ),
+                'items' => 
+                array (
+                  1 => 
+                  array (
+                    'classes' => 
+                    array (
+                      0 => 'grid-item',
+                      1 => 'grid-item-1',
+                    ),
+                    'item' => 
+                    array (
+                      'id' => '98',
+                      'name' => 'Promo Banner',
+                      'type' => 'banners',
+                    ),
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ),
+        'isOpen' => false,
+      ),
+      4 => 
+      array (
+        'title' => 'Найкращі Бренди',
+        'label' => '',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '109',
+          'href' => 'http://ukclothes/index.php?route=product/manufacturer',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'megamenu',
+        'mobileOpen' => false,
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'main-menu-item',
+          2 => 'main-menu-item-4',
+          3 => 'dropdown',
+          4 => 'mega-menu',
+          'icon-only' => false,
+          'menu-fullwidth' => true,
+          'mega-fullwidth' => true,
+          'mega-custom' => false,
+          'drop-menu' => false,
+        ),
+        'grid_classes' => 
+        array (
+          0 => 'grid-rows',
+        ),
+        'rows' => 
+        array (
+          1 => 
+          array (
+            'classes' => 
+            array (
+              0 => 'grid-row',
+              1 => 'grid-row-1',
+            ),
+            'columns' => 
+            array (
+              1 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-col',
+                  1 => 'grid-col-1',
+                ),
+                'items' => 
+                array (
+                  1 => 
+                  array (
+                    'classes' => 
+                    array (
+                      0 => 'grid-item',
+                      1 => 'grid-item-1',
+                    ),
+                    'item' => 
+                    array (
+                      'id' => '161',
+                      'name' => 'Catalog Brands',
+                      'type' => 'catalog',
+                    ),
+                  ),
+                ),
+              ),
+              2 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-col',
+                  1 => 'grid-col-2',
+                ),
+                'items' => 
+                array (
+                  1 => 
+                  array (
+                    'classes' => 
+                    array (
+                      0 => 'grid-item',
+                      1 => 'grid-item-1',
+                    ),
+                    'item' => 
+                    array (
+                      'id' => '186',
+                      'name' => 'Top Sellers',
+                      'type' => 'products',
+                    ),
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ),
+        'isOpen' => false,
+      ),
+    ),
+  ),
+);

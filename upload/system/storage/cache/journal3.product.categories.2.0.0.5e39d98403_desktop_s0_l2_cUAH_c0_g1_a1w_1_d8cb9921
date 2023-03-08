@@ -1,0 +1,1226 @@
+<?php $val = array (
+  232 => 
+  array (
+    'category_id' => '232',
+    'parent_id' => '0',
+    'title' => 'Чоловічий одяг',
+    'items' => 
+    array (
+      238 => 
+      array (
+        'category_id' => '238',
+        'parent_id' => '232',
+        'title' => 'Куртки',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c238',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://ukclothes/index.php?route=product/category&amp;path=232_238',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      234 => 
+      array (
+        'category_id' => '234',
+        'parent_id' => '232',
+        'title' => 'Сорочки',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c234',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://ukclothes/index.php?route=product/category&amp;path=232_234',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      235 => 
+      array (
+        'category_id' => '235',
+        'parent_id' => '232',
+        'title' => 'Спортивні костюми',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c235',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://ukclothes/index.php?route=product/category&amp;path=232_235',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      237 => 
+      array (
+        'category_id' => '237',
+        'parent_id' => '232',
+        'title' => 'Футболки',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c237',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://ukclothes/index.php?route=product/category&amp;path=232_237',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      233 => 
+      array (
+        'category_id' => '233',
+        'parent_id' => '232',
+        'title' => 'Штани',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c233',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://ukclothes/index.php?route=product/category&amp;path=232_233',
+          'total' => '1',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+    ),
+    'classes' => 
+    array (
+      0 => 'menu-item menu-item-c232',
+      'dropdown' => 
+      array (
+        238 => 
+        array (
+          'category_id' => '238',
+          'parent_id' => '232',
+          'title' => 'Куртки',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c238',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=232_238',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        234 => 
+        array (
+          'category_id' => '234',
+          'parent_id' => '232',
+          'title' => 'Сорочки',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c234',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=232_234',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        235 => 
+        array (
+          'category_id' => '235',
+          'parent_id' => '232',
+          'title' => 'Спортивні костюми',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c235',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=232_235',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        237 => 
+        array (
+          'category_id' => '237',
+          'parent_id' => '232',
+          'title' => 'Футболки',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c237',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=232_237',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        233 => 
+        array (
+          'category_id' => '233',
+          'parent_id' => '232',
+          'title' => 'Штани',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c233',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=232_233',
+            'total' => '1',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+      ),
+    ),
+    'link' => 
+    array (
+      'href' => 'http://ukclothes/index.php?route=product/category&amp;path=232',
+      'total' => '0',
+      'classes' => 
+      array (
+      ),
+    ),
+  ),
+  221 => 
+  array (
+    'category_id' => '221',
+    'parent_id' => '0',
+    'title' => 'Аксесуари',
+    'items' => 
+    array (
+      223 => 
+      array (
+        'category_id' => '223',
+        'parent_id' => '221',
+        'title' => 'Годинники',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c223',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://ukclothes/index.php?route=product/category&amp;path=221_223',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      225 => 
+      array (
+        'category_id' => '225',
+        'parent_id' => '221',
+        'title' => 'Ланцюжки',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c225',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://ukclothes/index.php?route=product/category&amp;path=221_225',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      222 => 
+      array (
+        'category_id' => '222',
+        'parent_id' => '221',
+        'title' => 'Окуляри',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c222',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://ukclothes/index.php?route=product/category&amp;path=221_222',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      224 => 
+      array (
+        'category_id' => '224',
+        'parent_id' => '221',
+        'title' => 'Сережки',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c224',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://ukclothes/index.php?route=product/category&amp;path=221_224',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+    ),
+    'classes' => 
+    array (
+      0 => 'menu-item menu-item-c221',
+      'dropdown' => 
+      array (
+        223 => 
+        array (
+          'category_id' => '223',
+          'parent_id' => '221',
+          'title' => 'Годинники',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c223',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=221_223',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        225 => 
+        array (
+          'category_id' => '225',
+          'parent_id' => '221',
+          'title' => 'Ланцюжки',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c225',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=221_225',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        222 => 
+        array (
+          'category_id' => '222',
+          'parent_id' => '221',
+          'title' => 'Окуляри',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c222',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=221_222',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        224 => 
+        array (
+          'category_id' => '224',
+          'parent_id' => '221',
+          'title' => 'Сережки',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c224',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=221_224',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+      ),
+    ),
+    'link' => 
+    array (
+      'href' => 'http://ukclothes/index.php?route=product/category&amp;path=221',
+      'total' => '0',
+      'classes' => 
+      array (
+      ),
+    ),
+  ),
+  239 => 
+  array (
+    'category_id' => '239',
+    'parent_id' => '0',
+    'title' => 'Жіноче взуття',
+    'items' => 
+    array (
+      243 => 
+      array (
+        'category_id' => '243',
+        'parent_id' => '239',
+        'title' => 'Босоніжки',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c243',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://ukclothes/index.php?route=product/category&amp;path=239_243',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      244 => 
+      array (
+        'category_id' => '244',
+        'parent_id' => '239',
+        'title' => 'Кеди',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c244',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://ukclothes/index.php?route=product/category&amp;path=239_244',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      241 => 
+      array (
+        'category_id' => '241',
+        'parent_id' => '239',
+        'title' => 'Кросівки',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c241',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://ukclothes/index.php?route=product/category&amp;path=239_241',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      242 => 
+      array (
+        'category_id' => '242',
+        'parent_id' => '239',
+        'title' => 'Туфлі',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c242',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://ukclothes/index.php?route=product/category&amp;path=239_242',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      240 => 
+      array (
+        'category_id' => '240',
+        'parent_id' => '239',
+        'title' => 'Черевики',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c240',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://ukclothes/index.php?route=product/category&amp;path=239_240',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+    ),
+    'classes' => 
+    array (
+      0 => 'menu-item menu-item-c239',
+      'dropdown' => 
+      array (
+        243 => 
+        array (
+          'category_id' => '243',
+          'parent_id' => '239',
+          'title' => 'Босоніжки',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c243',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=239_243',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        244 => 
+        array (
+          'category_id' => '244',
+          'parent_id' => '239',
+          'title' => 'Кеди',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c244',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=239_244',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        241 => 
+        array (
+          'category_id' => '241',
+          'parent_id' => '239',
+          'title' => 'Кросівки',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c241',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=239_241',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        242 => 
+        array (
+          'category_id' => '242',
+          'parent_id' => '239',
+          'title' => 'Туфлі',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c242',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=239_242',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        240 => 
+        array (
+          'category_id' => '240',
+          'parent_id' => '239',
+          'title' => 'Черевики',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c240',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=239_240',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+      ),
+    ),
+    'link' => 
+    array (
+      'href' => 'http://ukclothes/index.php?route=product/category&amp;path=239',
+      'total' => '0',
+      'classes' => 
+      array (
+      ),
+    ),
+  ),
+  226 => 
+  array (
+    'category_id' => '226',
+    'parent_id' => '0',
+    'title' => 'Жіночий одяг',
+    'items' => 
+    array (
+      230 => 
+      array (
+        'category_id' => '230',
+        'parent_id' => '226',
+        'title' => 'Куртки',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c230',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://ukclothes/index.php?route=product/category&amp;path=226_230',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      228 => 
+      array (
+        'category_id' => '228',
+        'parent_id' => '226',
+        'title' => 'Сорочки',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c228',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://ukclothes/index.php?route=product/category&amp;path=226_228',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      236 => 
+      array (
+        'category_id' => '236',
+        'parent_id' => '226',
+        'title' => 'Спортивні костюми',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c236',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://ukclothes/index.php?route=product/category&amp;path=226_236',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      229 => 
+      array (
+        'category_id' => '229',
+        'parent_id' => '226',
+        'title' => 'Сукні',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c229',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://ukclothes/index.php?route=product/category&amp;path=226_229',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      231 => 
+      array (
+        'category_id' => '231',
+        'parent_id' => '226',
+        'title' => 'Футболки',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c231',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://ukclothes/index.php?route=product/category&amp;path=226_231',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      227 => 
+      array (
+        'category_id' => '227',
+        'parent_id' => '226',
+        'title' => 'Штани',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c227',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://ukclothes/index.php?route=product/category&amp;path=226_227',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+    ),
+    'classes' => 
+    array (
+      0 => 'menu-item menu-item-c226',
+      'dropdown' => 
+      array (
+        230 => 
+        array (
+          'category_id' => '230',
+          'parent_id' => '226',
+          'title' => 'Куртки',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c230',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=226_230',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        228 => 
+        array (
+          'category_id' => '228',
+          'parent_id' => '226',
+          'title' => 'Сорочки',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c228',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=226_228',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        236 => 
+        array (
+          'category_id' => '236',
+          'parent_id' => '226',
+          'title' => 'Спортивні костюми',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c236',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=226_236',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        229 => 
+        array (
+          'category_id' => '229',
+          'parent_id' => '226',
+          'title' => 'Сукні',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c229',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=226_229',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        231 => 
+        array (
+          'category_id' => '231',
+          'parent_id' => '226',
+          'title' => 'Футболки',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c231',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=226_231',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        227 => 
+        array (
+          'category_id' => '227',
+          'parent_id' => '226',
+          'title' => 'Штани',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c227',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=226_227',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+      ),
+    ),
+    'link' => 
+    array (
+      'href' => 'http://ukclothes/index.php?route=product/category&amp;path=226',
+      'total' => '0',
+      'classes' => 
+      array (
+      ),
+    ),
+  ),
+  245 => 
+  array (
+    'category_id' => '245',
+    'parent_id' => '0',
+    'title' => 'Чоловіче взуття',
+    'items' => 
+    array (
+      248 => 
+      array (
+        'category_id' => '248',
+        'parent_id' => '245',
+        'title' => 'Кеди',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c248',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://ukclothes/index.php?route=product/category&amp;path=245_248',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      247 => 
+      array (
+        'category_id' => '247',
+        'parent_id' => '245',
+        'title' => 'Кросівки',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c247',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://ukclothes/index.php?route=product/category&amp;path=245_247',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      246 => 
+      array (
+        'category_id' => '246',
+        'parent_id' => '245',
+        'title' => 'Черевики',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c246',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'http://ukclothes/index.php?route=product/category&amp;path=245_246',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+    ),
+    'classes' => 
+    array (
+      0 => 'menu-item menu-item-c245',
+      'dropdown' => 
+      array (
+        248 => 
+        array (
+          'category_id' => '248',
+          'parent_id' => '245',
+          'title' => 'Кеди',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c248',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=245_248',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        247 => 
+        array (
+          'category_id' => '247',
+          'parent_id' => '245',
+          'title' => 'Кросівки',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c247',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=245_247',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        246 => 
+        array (
+          'category_id' => '246',
+          'parent_id' => '245',
+          'title' => 'Черевики',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c246',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=245_246',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+      ),
+    ),
+    'link' => 
+    array (
+      'href' => 'http://ukclothes/index.php?route=product/category&amp;path=245',
+      'total' => '0',
+      'classes' => 
+      array (
+      ),
+    ),
+  ),
+);

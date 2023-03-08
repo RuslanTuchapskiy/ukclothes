@@ -1,0 +1,158 @@
+<?php $val = array (
+  'css' => '.module-blocks-262.blocks-grid .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.module-blocks-262.blocks-grid .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.one-column #content .module-blocks-262.blocks-grid .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.one-column #content .module-blocks-262.blocks-grid .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.two-column #content .module-blocks-262.blocks-grid .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.two-column #content .module-blocks-262.blocks-grid .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.side-column .module-blocks-262.blocks-grid .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.side-column .module-blocks-262.blocks-grid .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.module-blocks-262 .block-title{order:-2}.module-blocks-262 .block-header{display:flex;float:none;order:-1;justify-content:flex-start;align-items:flex-start}.module-blocks-262 .block-header
+img{display:flex}.module-blocks-262 .block-wrapper{display:flex}.module-blocks-262 .block-header
+i{float:none;display:flex}.module-blocks-262 .block-body{display:flex;flex-direction:column}.module-blocks-262 .module-item-1 .block-header{margin-right:20px;margin-bottom:10px;margin-left:-60px}.module-blocks-262 .module-item-1 .expand-content{overflow:hidden}.module-blocks-262 .module-item-1 .block-content{column-count:initial;column-gap:20px;column-rule-width:1px;column-rule-style:solid}.module-blocks-262 .module-item-1 .block-footer
+.btn{width:auto;background:rgba(49, 56, 70, 1);padding:10px;border-radius:2px !important;transform:scale(calc(100 / 100));transform-origin:center}.module-blocks-262 .module-item-1 .block-footer{text-align:center}.module-blocks-262 .module-item-1 .block-footer .btn, .module-blocks-262 .module-item-1 .block-footer .btn:visited{font-size:13px;color:rgba(255, 255, 255, 1)}.module-blocks-262 .module-item-1 .block-footer .btn:hover{color:rgba(255, 255, 255, 1) !important;background:rgba(0, 138, 221, 1) !important}.module-blocks-262 .module-item-1 .block-footer .btn:active, .module-blocks-262 .module-item-1 .block-footer .btn:hover:active, .module-blocks-262 .module-item-1 .block-footer .btn:focus:active{color:rgba(245, 245, 245, 1) !important;background:rgba(9, 132, 207, 1) !important;box-shadow:inset 0 2px 8px rgba(0, 0, 0, 0.15)}.module-blocks-262 .module-item-1 .block-footer .btn:focus{color:rgba(255, 255, 255, 1) !important;background:rgba(0, 138, 221, 1);box-shadow:inset 0 0 20px rgba(0, 0, 0, 0.25)}.desktop .module-blocks-262 .module-item-1 .block-footer .btn:hover{box-shadow:0 5px 30px -5px rgba(0, 0, 0, 0.15)}.module-blocks-262 .module-item-1 .block-footer .btn.btn.disabled::after{font-size:20px}@media (max-width: 470px){.module-blocks-262 .module-item-1 .block-header{margin-right:0px;margin-left:0px}}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'display' => 'grid',
+    'displayTablet' => '',
+    'displayPhone' => '',
+    'carousel' => false,
+    'itemsPerRow' => 
+    array (
+      'c0' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'c1' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'c2' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'sc' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+    ),
+    'default' => '',
+    'title' => '',
+    'imageDimensions' => 
+    array (
+      'width' => 200,
+      'height' => 250,
+      'resize' => 'fill',
+    ),
+    'lazyLoad' => false,
+    'status' => true,
+    'id' => 'blocks-64086b06ca03c',
+    'module_id' => 262,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-blocks',
+      2 => 'module-blocks-262',
+      3 => 'blocks-grid',
+      'carousel-mode' => false,
+    ),
+    'carouselOptions' => 
+    array (
+      'speed' => 0,
+      'autoplay' => false,
+      'pauseOnHover' => false,
+      'loop' => false,
+    ),
+    'default_index' => 0,
+    'items' => 
+    array (
+      1 => 
+      array (
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'header' => 'none',
+        'text' => '',
+        'alt' => '',
+        'contentType' => 'description',
+        'shortDescriptionLimit' => '150',
+        'dynamic' => 'journal3/blocks_example',
+        'expandButton' => true,
+        'footer' => 'none',
+        'footerText' => '',
+        'footerButton' => '',
+        'footerButtonLink' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '262-1',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-1',
+          'tab-pane' => false,
+          'active' => false,
+          'panel' => false,
+          'panel-active' => false,
+          'swiper-slide' => false,
+        ),
+        'tab_classes' => 
+        array (
+          0 => 'tab-1',
+          'active' => false,
+        ),
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+          'in' => false,
+        ),
+        'image' => 'http://ukclothes/image/cache/placeholder-200x250h.png',
+        'image2x' => 'http://ukclothes/image/cache/placeholder-400x500h.png',
+        'title' => '',
+        'content' => '',
+        'items' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+);

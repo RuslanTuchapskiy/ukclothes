@@ -1,0 +1,278 @@
+<?php $val = array (
+  'css' => '.accordion-menu-19.accordion-menu > .j-menu > li.accordion-menu-item li>a::before{content:\'\\e93f\' !important;font-family:icomoon !important;font-size:12px}.accordion-menu-19.accordion-menu .j-menu .dropdown>a>.count-badge{margin-right:5px}.accordion-menu-19.accordion-menu .j-menu .dropdown>a>.count-badge+.open-menu+.menu-label{margin-left:0}.accordion-menu-19.accordion-menu .j-menu .dropdown>a::after{display:none}.accordion-menu-19.accordion-menu .j-menu>li>a{font-family:\'Roboto\';font-weight:700;font-size:14px;color:rgba(56, 68, 79, 1);text-transform:uppercase;padding:10px;padding-left:0px}.desktop .accordion-menu-19.accordion-menu .j-menu > li:hover > a, .accordion-menu-19.accordion-menu .j-menu>li.active>a{color:rgba(0, 138, 221, 1)}.accordion-menu-19.accordion-menu .j-menu .links-text{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.accordion-menu-19.accordion-menu .j-menu>li>a::before{color:rgba(53, 69, 100, 1);margin-right:8px;min-width:20px;font-size:18px}.accordion-menu-19.accordion-menu .j-menu a .count-badge{display:inline-flex;position:relative}.accordion-menu-19 .open-menu i::before{content:\'\\eba0\' !important;font-family:icomoon !important;font-size:16px;color:rgba(89, 96, 119, 1)}.accordion-menu-19 .accordion-menu-item:hover > a > .open-menu i::before{color:rgba(231, 40, 77, 1) !important}.accordion-menu-19 .accordion-menu-item.open > a > .open-menu i::before{color:rgba(46, 175, 35, 1)}.accordion-menu-19 .open-menu[aria-expanded=\'true\'] i::before{content:\'\\eb85\' !important;font-family:icomoon !important}.accordion-menu-19 .menu-item.open > a > .open-menu[aria-expanded=\'true\'] i::before{color:rgba(46, 175, 35, 1)}.accordion-menu-19.accordion-menu .j-menu .j-menu .dropdown>a>.count-badge{margin-right:5px}.accordion-menu-19.accordion-menu .j-menu .j-menu .dropdown>a>.count-badge+.open-menu+.menu-label{margin-left:0}.accordion-menu-19.accordion-menu .j-menu .j-menu .dropdown>a::after{display:none}.accordion-menu-19.accordion-menu .j-menu .j-menu>li>a{font-family:Helvetica,Arial,sans-serif;font-weight:400;font-size:14px;color:rgba(116, 121, 140, 1);text-transform:none;padding:8px}.accordion-menu-19.accordion-menu .j-menu .j-menu .links-text{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.accordion-menu-19.accordion-menu .j-menu .j-menu>li>a::before{min-width:10px;font-size:13px}.accordion-menu-19.accordion-menu .j-menu .j-menu > li > a, .accordion-menu-19.accordion-menu .j-menu.accordion-menu .menu-item > a + div, .accordion-menu-19.accordion-menu .j-menu .accordion-menu .menu-item>a+div{border-style:none}.accordion-menu-19.accordion-menu .j-menu .j-menu a .count-badge{display:none;position:relative}.accordion-menu-19 .j-menu > li > div .j-menu>li>a{padding-left:10px !important}.accordion-menu-19 .j-menu > li > div .j-menu>li>div>.j-menu>li>a{padding-left:20px !important}.accordion-menu-19 .j-menu > li > div .j-menu>li>div>.j-menu>li>div>.j-menu>li>a{padding-left:30px !important}.accordion-menu-19 .j-menu > li > div .j-menu>li>div>.j-menu>li>div>.j-menu>li>div>.j-menu>li>a{padding-left:40px !important}.accordion-menu-19 .j-menu .accordion-menu-item-1>a::before{content:\'\\e921\' !important;font-family:icomoon !important}.accordion-menu-19 .j-menu .accordion-menu-item-2>a::before{content:\'\\e909\' !important;font-family:icomoon !important}.accordion-menu-19 .j-menu .accordion-menu-item-3>a::before{content:\'\\e971\' !important;font-family:icomoon !important;left:2px}.accordion-menu-19 .j-menu .accordion-menu-item-4>a::before{content:\'\\e965\' !important;font-family:icomoon !important}.accordion-menu-19 .j-menu .accordion-menu-item-5>a::before{content:\'\\e966\' !important;font-family:icomoon !important}.accordion-menu-19 .j-menu .accordion-menu-item-6>a::before{content:\'\\eaf3\' !important;font-family:icomoon !important}.accordion-menu-19 .j-menu .accordion-menu-item-7>a::before{content:\'\\eabb\' !important;font-family:icomoon !important}.accordion-menu-19 .j-menu .accordion-menu-item-8>a::before{content:\'\\e96d\' !important;font-family:icomoon !important}',
+  'fonts' => 
+  array (
+    'fonts' => 
+    array (
+      'Roboto' => 
+      array (
+        700 => '700',
+      ),
+    ),
+    'subsets' => 
+    array (
+      'latin-ext' => 'latin-ext',
+    ),
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'title' => 'All Categories',
+    'status' => true,
+    'id' => 'accordion-menu-64086b06b1536',
+    'module_id' => 19,
+    'classes' => 
+    array (
+      0 => 'accordion-menu',
+      1 => 'accordion-menu-19',
+    ),
+    'items' => 
+    array (
+      1 => 
+      array (
+        'title' => 'Fashion',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '59',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'accordion-menu-item',
+          2 => 'accordion-menu-item-1',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      2 => 
+      array (
+        'title' => 'Bags',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '107',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'accordion-menu-item',
+          2 => 'accordion-menu-item-2',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      3 => 
+      array (
+        'title' => 'Health & Beauty',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '109',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'accordion-menu-item',
+          2 => 'accordion-menu-item-3',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      4 => 
+      array (
+        'title' => 'Footwear',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '111',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'accordion-menu-item',
+          2 => 'accordion-menu-item-4',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      5 => 
+      array (
+        'title' => 'Home',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '175',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'accordion-menu-item',
+          2 => 'accordion-menu-item-5',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      6 => 
+      array (
+        'title' => 'Electronics',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '69',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'accordion-menu-item',
+          2 => 'accordion-menu-item-6',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      7 => 
+      array (
+        'title' => 'Baby & Kids',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '166',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'accordion-menu-item',
+          2 => 'accordion-menu-item-7',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      8 => 
+      array (
+        'title' => 'Appliances',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '205',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'accordion-menu-item',
+          2 => 'accordion-menu-item-8',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+);

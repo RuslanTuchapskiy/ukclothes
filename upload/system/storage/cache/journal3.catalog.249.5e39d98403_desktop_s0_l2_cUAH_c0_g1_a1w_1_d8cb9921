@@ -1,0 +1,346 @@
+<?php $val = array (
+  'css' => '.module-catalog-249 .module-item.swiper-slide{margin-right:20px;width:calc((100% - 2 * 20px) / 3 - 0.01px)}.module-catalog-249 .module-item:not(.swiper-slide){padding:10px;width:calc(100% / 3 - 0.01px)}.one-column #content .module-catalog-249 .module-item.swiper-slide{margin-right:20px;width:calc((100% - 3 * 20px) / 4 - 0.01px)}.one-column #content .module-catalog-249 .module-item:not(.swiper-slide){padding:10px;width:calc(100% / 4 - 0.01px)}.two-column #content .module-catalog-249 .module-item.swiper-slide{margin-right:20px;width:calc((100% - 2 * 20px) / 3 - 0.01px)}.two-column #content .module-catalog-249 .module-item:not(.swiper-slide){padding:10px;width:calc(100% / 3 - 0.01px)}.side-column .module-catalog-249 .module-item.swiper-slide{margin-right:20px;width:calc((100% - 0 * 20px) / 1 - 0.01px)}.side-column .module-catalog-249 .module-item:not(.swiper-slide){padding:10px;width:calc(100% / 1 - 0.01px)}.module-catalog-249 .swiper-container{overflow:hidden}.module-catalog-249 .swiper-buttons{display:block;top:50%;width:calc(100% - (-25px * 2))}.module-catalog-249 .swiper-button-prev{left:0;right:auto;transform:translate(0, -50%)}.module-catalog-249 .swiper-button-next{left:auto;right:0;transform:translate(0, -50%)}.module-catalog-249 .swiper-buttons
+div{width:50px;height:50px;background:rgba(49, 56, 70, 1);box-shadow:0 5px 30px -5px rgba(0, 0, 0, 0.15)}.module-catalog-249 .swiper-button-disabled{opacity:0.2}.module-catalog-249 .swiper-buttons div::before{content:\'\\e5c4\' !important;font-family:icomoon !important;color:rgba(255, 255, 255, 1)}.module-catalog-249 .swiper-buttons .swiper-button-next::before{content:\'\\e5c8\' !important;font-family:icomoon !important;color:rgba(255, 255, 255, 1)}.module-catalog-249 .swiper-buttons div:not(.swiper-button-disabled):hover{background:rgba(231, 40, 77, 1)}.module-catalog-249 .swiper-pagination{display:none;margin-bottom:-10px;left:50%;right:auto;transform:translateX(-50%)}.module-catalog-249:hover .swiper-pagination{display:block}.module-catalog-249 .swiper-pagination-bullet{width:10px;height:10px;background-color:rgba(49, 56, 70, 1)}.module-catalog-249 .swiper-pagination>span+span{margin-left:7px}.desktop .module-catalog-249 .swiper-pagination-bullet:hover{background-color:rgba(231, 40, 77, 1)}.module-catalog-249 .swiper-pagination-bullet.swiper-pagination-bullet-active{background-color:rgba(243, 109, 55, 1)}.module-catalog-249 .swiper-pagination>span{border-radius:20px}.module-catalog-249  .item-content{padding:8px}.module-catalog-249  .catalog-title{padding-bottom:5px;border-width:0;border-bottom-width:1px;border-style:solid;border-color:rgba(223, 231, 247, 1)}.module-catalog-249 .catalog-title{margin-bottom:10px;display:flex;font-family:\'Roboto\';font-weight:700;color:rgba(56, 68, 79, 1);width:100%;margin-left:0;margin-right:auto;justify-content:flex-start;white-space:normal;overflow:visible;text-overflow:initial}.module-catalog-249
+.subitems{align-items:flex-start}.module-catalog-249 .subitem > a
+span{font-size:14px}.module-catalog-249 .subitem.view-more a
+span{font-size:14px;color:rgba(69, 82, 94, 1);text-decoration:underline}.module-catalog-249 .subitem.view-more a:hover
+span{color:rgba(0, 138, 221, 1)}.module-catalog-249 .subitem.view-more
+a{margin-left:5px}.module-catalog-249 .subitem.view-more a::before{content:none !important}.module-catalog-249 .subitem>a{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;padding-bottom:6px}.module-catalog-249 .subitem>a::before{content:\'\\e409\' !important;font-family:icomoon !important}.module-catalog-249 .catalog-image{margin-right:5px}.module-catalog-249 .item-assets{flex-direction:row}.module-catalog-249 .item-assets>a{max-width:40%;order:0}.module-catalog-249 .item-assets
+.subitems{width:60%}.module-catalog-249 .item-assets .catalog-image{display:block}.module-catalog-249 div.item-assets{flex-direction:row}.module-catalog-249 div.item-assets>a{max-width:40%;order:5}.module-catalog-249 div.item-assets
+.subitems{width:60%}.module-catalog-249 div.item-assets .catalog-image{display:block}@media (max-width: 1224px){.module-catalog-249 .module-item.swiper-slide{margin-right:20px;width:calc((100% - 2 * 20px) / 3 - 0.01px)}.module-catalog-249 .module-item:not(.swiper-slide){padding:10px;width:calc(100% / 3 - 0.01px)}}@media (max-width: 760px){.module-catalog-249 .module-item.swiper-slide{margin-right:10px;width:calc((100% - 2 * 10px) / 3 - 0.01px)}.module-catalog-249 .module-item:not(.swiper-slide){padding:5px;width:calc(100% / 3 - 0.01px)}.module-catalog-249 .subitem.view-more
+a{margin-top:10px;margin-left:10px}.module-catalog-249 .subitem>a{padding-bottom:14px}.module-catalog-249 .catalog-image{margin-right:0px;margin-bottom:15px}.module-catalog-249 .item-assets{flex-direction:column}.module-catalog-249 .item-assets>a{max-width:100%;order:0}.module-catalog-249 .item-assets
+.subitems{width:100%}.module-catalog-249 .item-assets .catalog-image{display:block}.module-catalog-249 div.item-assets{flex-direction:column}.module-catalog-249 div.item-assets>a{max-width:100%;order:0}.module-catalog-249 div.item-assets
+.subitems{width:100%}.module-catalog-249 div.item-assets .catalog-image{display:block}}@media (max-width: 470px){.module-catalog-249 .module-item.swiper-slide{margin-right:10px;width:calc((100% - 1 * 10px) / 2 - 0.01px)}.module-catalog-249 .module-item:not(.swiper-slide){padding:5px;width:calc(100% / 2 - 0.01px)}}',
+  'fonts' => 
+  array (
+    'fonts' => 
+    array (
+      'Roboto' => 
+      array (
+        700 => '700',
+      ),
+    ),
+    'subsets' => 
+    array (
+      'latin-ext' => 'latin-ext',
+    ),
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'title' => '',
+    'images' => true,
+    'imageDimensions' => 
+    array (
+      'width' => 100,
+      'height' => 100,
+      'resize' => 'fit',
+    ),
+    'itemsPerRow' => 
+    array (
+      'c0' => 
+      array (
+        0 => 
+        array (
+          'items' => 3,
+          'spacing' => 20,
+        ),
+        1224 => 
+        array (
+          'items' => 3,
+          'spacing' => 20,
+        ),
+        760 => 
+        array (
+          'items' => 3,
+          'spacing' => 10,
+        ),
+        470 => 
+        array (
+          'items' => 2,
+          'spacing' => 10,
+        ),
+      ),
+      'c1' => 
+      array (
+        0 => 
+        array (
+          'items' => 4,
+          'spacing' => 20,
+        ),
+      ),
+      'c2' => 
+      array (
+        0 => 
+        array (
+          'items' => 3,
+          'spacing' => 20,
+        ),
+      ),
+      'sc' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 20,
+        ),
+      ),
+    ),
+    'carousel' => false,
+    'viewMoreText' => 'View More',
+    'status' => true,
+    'id' => 'catalog-64086b033fcdc',
+    'module_id' => 249,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-catalog',
+      2 => 'module-catalog-249',
+      'carousel-mode' => false,
+      'image-on-hover' => true,
+    ),
+    'carouselOptions' => 
+    array (
+      'speed' => 500,
+      'autoplay' => false,
+      'pauseOnHover' => true,
+      'loop' => false,
+    ),
+    'items' => 
+    array (
+      1 => 
+      array (
+        'limit' => '4',
+        'id' => '249-1',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-1',
+          'swiper-slide' => false,
+        ),
+        'items' => 
+        array (
+          0 => 
+          array (
+            'name' => 'Куртки',
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=232_238',
+            'image' => 'http://ukclothes/image/cache/placeholder-100x100.png',
+            'image2x' => 'http://ukclothes/image/cache/placeholder-200x200.png',
+          ),
+          1 => 
+          array (
+            'name' => 'Сорочки',
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=232_234',
+            'image' => 'http://ukclothes/image/cache/placeholder-100x100.png',
+            'image2x' => 'http://ukclothes/image/cache/placeholder-200x200.png',
+          ),
+          2 => 
+          array (
+            'name' => 'Спортивні костюми',
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=232_235',
+            'image' => 'http://ukclothes/image/cache/placeholder-100x100.png',
+            'image2x' => 'http://ukclothes/image/cache/placeholder-200x200.png',
+          ),
+          3 => 
+          array (
+            'name' => 'Футболки',
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=232_237',
+            'image' => 'http://ukclothes/image/cache/placeholder-100x100.png',
+            'image2x' => 'http://ukclothes/image/cache/placeholder-200x200.png',
+          ),
+        ),
+        'image' => 'http://ukclothes/image/cache/catalog/321-100x100h.jpg',
+        'name' => 'Чоловічий одяг',
+        'href' => 'http://ukclothes/index.php?route=product/category&amp;path=232',
+        'image2x' => 'http://ukclothes/image/cache/catalog/321-200x200h.jpg',
+        'total' => '5',
+      ),
+      2 => 
+      array (
+        'limit' => '4',
+        'id' => '249-2',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-2',
+          'swiper-slide' => false,
+        ),
+        'items' => 
+        array (
+          0 => 
+          array (
+            'name' => 'Кеди',
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=245_248',
+            'image' => 'http://ukclothes/image/cache/placeholder-100x100.png',
+            'image2x' => 'http://ukclothes/image/cache/placeholder-200x200.png',
+          ),
+          1 => 
+          array (
+            'name' => 'Кросівки',
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=245_247',
+            'image' => 'http://ukclothes/image/cache/placeholder-100x100.png',
+            'image2x' => 'http://ukclothes/image/cache/placeholder-200x200.png',
+          ),
+          2 => 
+          array (
+            'name' => 'Черевики',
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=245_246',
+            'image' => 'http://ukclothes/image/cache/placeholder-100x100.png',
+            'image2x' => 'http://ukclothes/image/cache/placeholder-200x200.png',
+          ),
+        ),
+        'image' => 'http://ukclothes/image/cache/catalog/images-100x100w.jpg',
+        'name' => 'Чоловіче взуття',
+        'href' => 'http://ukclothes/index.php?route=product/category&amp;path=245',
+        'image2x' => 'http://ukclothes/image/cache/catalog/images-200x200w.jpg',
+        'total' => '3',
+      ),
+      3 => 
+      array (
+        'limit' => '4',
+        'id' => '249-3',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-3',
+          'swiper-slide' => false,
+        ),
+        'items' => 
+        array (
+          0 => 
+          array (
+            'name' => 'Куртки',
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=226_230',
+            'image' => 'http://ukclothes/image/cache/placeholder-100x100.png',
+            'image2x' => 'http://ukclothes/image/cache/placeholder-200x200.png',
+          ),
+          1 => 
+          array (
+            'name' => 'Сорочки',
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=226_228',
+            'image' => 'http://ukclothes/image/cache/placeholder-100x100.png',
+            'image2x' => 'http://ukclothes/image/cache/placeholder-200x200.png',
+          ),
+          2 => 
+          array (
+            'name' => 'Спортивні костюми',
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=226_236',
+            'image' => 'http://ukclothes/image/cache/placeholder-100x100.png',
+            'image2x' => 'http://ukclothes/image/cache/placeholder-200x200.png',
+          ),
+          3 => 
+          array (
+            'name' => 'Сукні',
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=226_229',
+            'image' => 'http://ukclothes/image/cache/placeholder-100x100.png',
+            'image2x' => 'http://ukclothes/image/cache/placeholder-200x200.png',
+          ),
+        ),
+        'image' => 'http://ukclothes/image/cache/catalog/123-100x100h.jpg',
+        'name' => 'Жіночий одяг',
+        'href' => 'http://ukclothes/index.php?route=product/category&amp;path=226',
+        'image2x' => 'http://ukclothes/image/cache/catalog/123-200x200h.jpg',
+        'total' => '6',
+      ),
+      4 => 
+      array (
+        'limit' => '4',
+        'id' => '249-4',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-4',
+          'swiper-slide' => false,
+        ),
+        'items' => 
+        array (
+          0 => 
+          array (
+            'name' => 'Босоніжки',
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=239_243',
+            'image' => 'http://ukclothes/image/cache/placeholder-100x100.png',
+            'image2x' => 'http://ukclothes/image/cache/placeholder-200x200.png',
+          ),
+          1 => 
+          array (
+            'name' => 'Кеди',
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=239_244',
+            'image' => 'http://ukclothes/image/cache/placeholder-100x100.png',
+            'image2x' => 'http://ukclothes/image/cache/placeholder-200x200.png',
+          ),
+          2 => 
+          array (
+            'name' => 'Кросівки',
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=239_241',
+            'image' => 'http://ukclothes/image/cache/placeholder-100x100.png',
+            'image2x' => 'http://ukclothes/image/cache/placeholder-200x200.png',
+          ),
+          3 => 
+          array (
+            'name' => 'Туфлі',
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=239_242',
+            'image' => 'http://ukclothes/image/cache/placeholder-100x100.png',
+            'image2x' => 'http://ukclothes/image/cache/placeholder-200x200.png',
+          ),
+        ),
+        'image' => 'http://ukclothes/image/cache/catalog/333-100x100h.jpg',
+        'name' => 'Жіноче взуття',
+        'href' => 'http://ukclothes/index.php?route=product/category&amp;path=239',
+        'image2x' => 'http://ukclothes/image/cache/catalog/333-200x200h.jpg',
+        'total' => '5',
+      ),
+      5 => 
+      array (
+        'limit' => '4',
+        'id' => '249-5',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-5',
+          'swiper-slide' => false,
+        ),
+        'items' => 
+        array (
+          0 => 
+          array (
+            'name' => 'Годинники',
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=221_223',
+            'image' => 'http://ukclothes/image/cache/placeholder-100x100.png',
+            'image2x' => 'http://ukclothes/image/cache/placeholder-200x200.png',
+          ),
+          1 => 
+          array (
+            'name' => 'Ланцюжки',
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=221_225',
+            'image' => 'http://ukclothes/image/cache/placeholder-100x100.png',
+            'image2x' => 'http://ukclothes/image/cache/placeholder-200x200.png',
+          ),
+          2 => 
+          array (
+            'name' => 'Окуляри',
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=221_222',
+            'image' => 'http://ukclothes/image/cache/placeholder-100x100.png',
+            'image2x' => 'http://ukclothes/image/cache/placeholder-200x200.png',
+          ),
+          3 => 
+          array (
+            'name' => 'Сережки',
+            'href' => 'http://ukclothes/index.php?route=product/category&amp;path=221_224',
+            'image' => 'http://ukclothes/image/cache/placeholder-100x100.png',
+            'image2x' => 'http://ukclothes/image/cache/placeholder-200x200.png',
+          ),
+        ),
+        'image' => 'http://ukclothes/image/cache/catalog/8048738a-100x100h.jpg',
+        'name' => 'Аксесуари',
+        'href' => 'http://ukclothes/index.php?route=product/category&amp;path=221',
+        'image2x' => 'http://ukclothes/image/cache/catalog/8048738a-200x200h.jpg',
+        'total' => '4',
+      ),
+    ),
+  ),
+);
